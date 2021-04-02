@@ -21,16 +21,23 @@ Donald A. Norman (2013). The Design of Everyday Things. Basic Books. Chapter 1. 
 ### Week 2 - Usability, User Experience
 
 **Read:** 
-https://usabilitygeek.com/the-difference-between-usability-and-user-experience/
-https://www.nngroup.com/articles/ten-usability-heuristics/
-https://www.nngroup.com/articles/ux-research-cheat-sheet/
+
+[Usability Geek. The Difference Between Usability and User Experience.](https://usabilitygeek.com/the-difference-between-usability-and-user-experience/)
+
+[NN/g. 10 Usability Heuristics](https://www.nngroup.com/articles/ten-usability-heuristics/)
+
+[NN/g. 10 UX Research Cheat Sheet](https://www.nngroup.com/articles/ux-research-cheat-sheet/)
+
 
 Assignment 1: Evaluate a bad design. What is it? Why is it bad? What human factors or usability principles does it violate? How could it be improved?
 
 ### Week 3 - Human error and human reliability
 
-Read: Reason, James (1980). Human error: models and management. BMJ 2000 (320), 768-770.
-https://ergonomicsblog.uk/performance-shaping-factors/
+**Read:** 
+
+Reason, James (1980). Human error: models and management. BMJ 2000 (320), 768-770.
+
+[ErgonomicsBlog.uk Performance Shaping Factors](https://ergonomicsblog.uk/performance-shaping-factors/)
 
 ### Week 4 - Human Technological Systems and Innovative Disruption
 
@@ -38,8 +45,8 @@ https://ergonomicsblog.uk/performance-shaping-factors/
 
 Kim Vincente. (2004). The Human Factor. Chapter 2. Why is Technology So Out Of Control? Walking Around Half-Blind.
 
-Clayton M. Christensen, Michael E. Raynor, and Rory McDonald (2015). What Is Disruptive Innovation? Harvard Business Review
-https://hbr.org/2015/12/what-is-disruptive-innovation
+Clayton M. Christensen, Michael E. Raynor, and Rory McDonald (2015). [What Is Disruptive Innovation? Harvard Business Review]
+(https://hbr.org/2015/12/what-is-disruptive-innovation)
 
 **Assignment 2:** Identify and describe a human technology system that could benefit from innovative disruption or is undergoing innovative disruption. Describe challenges faced by the innovative disruption and how you could help to solve those challenges. 
 
@@ -64,13 +71,13 @@ https://hbr.org/2015/12/what-is-disruptive-innovation
 
 Best practices
 
-Read: Oculus Developer. How digital technologies are transforming aerospace and defense. https://developer.oculus.com/learn/
+Read: Oculus Developer. https://developer.oculus.com/learn/
 
 ### Week 8 - mixed-initiative systems
 
 **Read:** 
 
-Miller, Randall (April 2019). How digital technolgoies are transforming aerospace and defense. ey.com. https://www.ey.com/en_gl/aerospace-defense/how-digital-technologies-are-transforming-aerospace-and-defense
+Miller, Randall (April 2019). [How digital technolgoies are transforming aerospace and defense.](https://www.ey.com/en_gl/aerospace-defense/how-digital-technologies-are-transforming-aerospace-and-defense) ey.com. 
 
 **Assignment 4:** Create a design concept for a mixed-initiative system. What is it? What does it do? How is it better than current alternatives?
 
