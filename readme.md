@@ -14,11 +14,13 @@ This is an 8-week seminar course to introduce Virtual Technology and Design stud
 What is human factors?
 Principles of human factors
 
-Read: Donald A. Norman (2013). The Design of Everyday Things. Basic Books. Chapter 1. The PsychoPathology of Everyday Things.
+**Read:** 
+
+Donald A. Norman (2013). The Design of Everyday Things. Basic Books. Chapter 1. The PsychoPathology of Everyday Things.
 
 ### Week 2 - Usability, User Experience
 
-Read: 
+**Read:** 
 https://usabilitygeek.com/the-difference-between-usability-and-user-experience/
 https://www.nngroup.com/articles/ten-usability-heuristics/
 https://www.nngroup.com/articles/ux-research-cheat-sheet/
@@ -32,11 +34,14 @@ https://ergonomicsblog.uk/performance-shaping-factors/
 
 ### Week 4 - Human Technological Systems and Innovative Disruption
 
-Read: Kim Vincente. (2004). The Human Factor. Chapter 2. Why is Technology So Out Of Control? Walking Around Half-Blind.
-y Clayton M. Christensen, Michael E. Raynor, and Rory McDonald (2015). What Is Disruptive Innovation? Harvard Business Review
+**Read:** 
+
+Kim Vincente. (2004). The Human Factor. Chapter 2. Why is Technology So Out Of Control? Walking Around Half-Blind.
+
+Clayton M. Christensen, Michael E. Raynor, and Rory McDonald (2015). What Is Disruptive Innovation? Harvard Business Review
 https://hbr.org/2015/12/what-is-disruptive-innovation
 
-Assignment 2: Identify and describe a human technology system that could benefit from innovative disruption or is undergoing innovative disruption. Describe challenges faced by the innovative disruption and how you could help to solve those challenges. 
+**Assignment 2:** Identify and describe a human technology system that could benefit from innovative disruption or is undergoing innovative disruption. Describe challenges faced by the innovative disruption and how you could help to solve those challenges. 
 
 ### Week 5 - Human Performance and Evaluation
  - Primary task performance
@@ -53,19 +58,21 @@ Assignment 2: Identify and describe a human technology system that could benefit
 
 ### Week 6 - Design and prototyping
 
-Assignment 3: Explore a new (to you) design or prototyping tool and document your experience using the tool. What is it? What does it do? What did you do with it? Did you find it worthwhile?
+**Assignment 3:** Explore a new (to you) design or prototyping tool and document your experience using the tool. What is it? What does it do? What did you do with it? Did you find it worthwhile?
 
 ### Week 7 -  Virtual Reality
 
 Best practices
 
-Read: How digital technologies are transforming aerospace and defense. https://developer.oculus.com/learn/
+Read: Oculus Developer. How digital technologies are transforming aerospace and defense. https://developer.oculus.com/learn/
 
 ### Week 8 - mixed-initiative systems
 
-Read: https://www.ey.com/en_gl/aerospace-defense/how-digital-technologies-are-transforming-aerospace-and-defense
+**Read:** 
 
-Assignment 4: Create a design concept for a mixed-initiative system. What is it? What does it do? How is it better than current alternatives?
+Miller, Randall (April 2019). How digital technolgoies are transforming aerospace and defense. ey.com. https://www.ey.com/en_gl/aerospace-defense/how-digital-technologies-are-transforming-aerospace-and-defense
+
+**Assignment 4:** Create a design concept for a mixed-initiative system. What is it? What does it do? How is it better than current alternatives?
 
 
 ## Grading
