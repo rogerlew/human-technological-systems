@@ -1,8 +1,6 @@
 # VTD 4xx/5xx Human Technological Systems Seminar
 
-## Prerequisites
-
-
+3 Credits
 
 ## Course Description
 
@@ -10,7 +8,7 @@ Overview of user interaction design and evaluation of physical and virtual human
 
 **Recommended Preparation:** Graduate student status (5xx) *or* undergraduate who has taken a VTD 400-Level history and theory course *or* instructor approval
 
-This is an 16-week onine course to introduce Virtual Technology and Design students to human factors, human computer interaction design and evaluation, emphasizing mixed-initiative systems and virtual reality. The first 8-weeks are to develop the theory and during the last 8-weeks students conduct individual projects. 
+This is an 16-week onine course to introduce Virtual Technology and Design students to human factors, human computer interaction design and evaluation, emphasizing mixed-initiative systems and virtual reality. The first 8-weeks are to develop the theory and during the last 8-weeks students lead and conduct individual projects related to the course content. 
 
 ## Tentative Schedule
 
@@ -86,9 +84,15 @@ Miller, Randall (April 2019). [How digital technologies are transforming aerospa
 **Assignment 4:** Create a design concept for a mixed-initiative system. What is it? What does it do? How is it better than current alternatives?
 
 
-### Week 9 - 15
+### Week 9 - 15 - Miniproject
 
-Students develop independent mini-projects
+Students develop independent miniprojects related to human technological systems or human machine interfaces. Students will submit weekly status reports and meet with the instructor as needed. The miniprojects will culminate in a written report and a 8-10 minute oral
+
+#### Week 9 - 10 Project Identification
+
+Identify a problem space and the goal or intent of your miniproject. Your project could 
+
+#### Week 9 - 10 Project Identification
 
 ## Grading
 
