@@ -18,7 +18,16 @@ Office Hours: by appointment
 
 ## Course Description
 
-Overview of user interaction design and evaluation of physical and virtual human-machine systems. Topics include introduction to human factors, human technological systems, usability evaluation, HCI in virtual reality, human error, human performance,  mixed-initiative systems (intelligent and autonomous teaming), design and prototyping.
+Overview of user interaction design and evaluation of physical and virtual human-machine systems. We want to train the next generation of virtual integrated designers!
+
+VTD is inherently interdisciplinary/transdisciplinary. We utilize knowledge and methods from various domains to:
+
+-   Understand the role of humans in highly sophisticated human-coupled systems
+-   Apply systems-thinking and first-principles to design solutions
+-   Model, simulate, and iterate to optimize designs
+-   Develop, deploy, and validate virtual technologies
+    
+Topics include introduction to human factors, human technological systems, usability evaluation, HCI in virtual reality, human error, human performance,  mixed-initiative systems (intelligent and autonomous teaming), design and prototyping.
 
 **Recommended Preparation:** Graduate student status (5xx) *or* undergraduate who has taken a VTD 300-Level production course and one VTD 400-Level history and theory course, or with instructor approval.
 
