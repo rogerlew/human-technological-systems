@@ -1,4 +1,4 @@
-# VTD 404 ST:Human Machine Systems
+# VTD 404 ST:Human Machine Interfaces
 
 University of Idaho<br>
 3 Credits<br>
