@@ -1,12 +1,14 @@
 # VTD 4xx/5xx Human Technological Systems Seminar
 
+
 3 Credits
 
 ## Course Description
 
 Overview of user interaction design and evaluation of physical and virtual human-machine systems. Topics include introduction to human factors, human technological systems, usability evaluation, HCI in virtual reality, human error, human performance,  mixed-initiative systems (intelligent and autonomous teaming), design and prototyping.
 
-**Recommended Preparation:** Graduate student status (5xx) *or* undergraduate who has taken a VTD 400-Level history and theory course *or* instructor approval
+**Recommended Preparation:** Graduate student status (5xx) *or* undergraduate who has taken a VTD 300-Level production course and one VTD 400-Level history and theory course, or with instructor approval.
+
 
 This is an 16-week onine course to introduce Virtual Technology and Design students to human factors, human computer interaction design and evaluation, emphasizing mixed-initiative systems and virtual reality. The first 8-weeks are to develop the theory and during the last 8-weeks students lead and conduct individual projects related to the course content. 
 
