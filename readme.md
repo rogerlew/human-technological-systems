@@ -1,4 +1,4 @@
-# VTD 4xx/5xx Human Technological Systems Seminar
+# University of Idaho Virtual Technology and Design 404 ST:Human Machine Systems
 
 3 Credits
 
@@ -6,6 +6,13 @@ Spring 2022<br>
 CRN 74617<br>
 Jan 12, 2022  - May 13, 2022  	02:00 pm - 03:15 pm 	TR<br>
 Virtual Meetings
+
+
+## Instructor
+Roger Lew
+rogerlew@uidaho.edu
+208-660-4525 (Business hours only please)
+Office Hours: by appointment
 
 
 ## Course Description
