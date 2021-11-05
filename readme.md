@@ -1,7 +1,7 @@
-# University of Idaho Virtual Technology and Design 404 ST:Human Machine Systems
+# VTD 404 ST:Human Machine Systems
 
-3 Credits
-
+University of Idaho<br>
+3 Credits<br>
 Spring 2022<br>
 CRN 74617<br>
 Jan 12, 2022  - May 13, 2022  	02:00 pm - 03:15 pm 	TR<br>
