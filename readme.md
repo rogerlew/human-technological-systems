@@ -1,7 +1,12 @@
 # VTD 4xx/5xx Human Technological Systems Seminar
 
-
 3 Credits
+
+Spring 2022<br>
+CRN 74617<br>
+Jan 12, 2022  - May 13, 2022  	02:00 pm - 03:15 pm 	TR<br>
+Virtual Meetings
+
 
 ## Course Description
 
