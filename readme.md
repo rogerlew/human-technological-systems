@@ -9,9 +9,10 @@ Virtual Meetings
 
 
 ## Instructor
-Roger Lew
-rogerlew@uidaho.edu
-208-660-4525 (Business hours only please)
+
+Roger Lew<br>
+rogerlew@uidaho.edu<br>
+208-660-4525 (Business hours only please)<br>
 Office Hours: by appointment
 
 
