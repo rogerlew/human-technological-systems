@@ -90,13 +90,22 @@ Miller, Randall (April 2019). [How digital technologies are transforming aerospa
 
 Students develop independent miniprojects related to human technological systems or human machine interfaces. Students will submit weekly status reports and meet with the instructor as needed. The miniprojects will culminate in a written report and a 8-10 minute oral
 
-#### Week 9 - 10 Project Identification
+### Week 9 – 10 Project Identification
 
-Identify a problem space and the goal or intent of your miniproject. Your project could 
+Identify a problem space and the goal or intent of your mini project. 
 
-#### Week 9 - 10 Project Identification
+### Week 11 Mini project Method 
+
+Create a plan for carrying out your project
+
+### Week 12 – 14 Production
+
+Carryout your project while documenting your findings along the way
+
+### Week 15 – 16 Analysis and Dissemination
+
+Organize your findings and document them in a report. Prepare a 8-10 minute presentation on your project.
 
 ## Grading
+Assignments 50% (12.5% per assignment) Mini-project and presentation 50% (40% project report, 10% presentation)
 
-Assignments 50% (12.5% per assignment)
-Assignments 50% (12.5% per assignment)
