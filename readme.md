@@ -36,7 +36,7 @@ This is an 16-week onine course to introduce Virtual Technology and Design stude
 
 ## Tentative Schedule
 
-### Week 1 - Introduction to Human Factors
+### Week 1 - Introduction to Human Factors (1/13, 1/18)
 What is human factors?
 Principles of human factors
 
@@ -44,7 +44,7 @@ Principles of human factors
 
 Donald A. Norman (2013). The Design of Everyday Things. Basic Books. Chapter 1. The PsychoPathology of Everyday Things.
 
-### Week 2 - Usability, User Experience
+### Week 2 - Usability, User Experience (1/20, 1/25)
 
 **Read:** 
 
@@ -57,7 +57,7 @@ Donald A. Norman (2013). The Design of Everyday Things. Basic Books. Chapter 1. 
 
 Assignment 1: Evaluate a bad design. What is it? Why is it bad? What human factors or usability principles does it violate? How could it be improved?
 
-### Week 3 - Human error and human reliability
+### Week 3 - Human error and human reliability (1/27, 2/1)
 
 **Read:** 
 
@@ -65,7 +65,7 @@ Reason, James (1980). Human error: models and management. BMJ 2000 (320), 768-77
 
 [ErgonomicsBlog.uk Performance Shaping Factors](https://ergonomicsblog.uk/performance-shaping-factors/)
 
-### Week 4 - Human Technological Systems and Innovative Disruption
+### Week 4 - Human Technological Systems and Innovative Disruption (2/3, 2/8)
 
 **Read:** 
 
@@ -76,7 +76,7 @@ Clayton M. Christensen, Michael E. Raynor, and Rory McDonald (2015). [What Is Di
 
 **Assignment 2:** Identify and describe a human technology system that could benefit from innovative disruption or is undergoing innovative disruption. Describe challenges faced by the innovative disruption and how you could help to solve those challenges. 
 
-### Week 5 - Human Performance and Evaluation
+### Week 5 - Human Performance and Evaluation (2/10, 2/15)
  - Primary task performance
    - accuracy
    - time
@@ -89,17 +89,17 @@ Clayton M. Christensen, Michael E. Raynor, and Rory McDonald (2015). [What Is Di
    - Workload
    - Situational Awareness
 
-### Week 6 - Design and prototyping
+### Week 6 - Design and prototyping (2/17, 2/22)
 
 **Assignment 3:** Explore a new (to you) design or prototyping tool and document your experience using the tool. What is it? What does it do? What did you do with it? Did you find it worthwhile?
 
-### Week 7 -  Virtual Reality
+### Week 7 -  Virtual Reality (2/24, 3/1)
 
 Best practices
 
 Read: Oculus Developer. https://developer.oculus.com/learn/
 
-### Week 8 - mixed-initiative systems
+### Week 8 - mixed-initiative systems (3/8, 3/10)
 
 **Read:** 
 
@@ -112,19 +112,19 @@ Miller, Randall (April 2019). [How digital technologies are transforming aerospa
 
 Students develop independent miniprojects related to human technological systems or human machine interfaces. Students will submit weekly status reports and meet with the instructor as needed. The miniprojects will culminate in a written report and a 8-10 minute oral
 
-### Week 9 – 10 Project Identification
+### Week 9 – 10 Project Identification (Spring Break, 3/24)
 
 Identify a problem space and the goal or intent of your mini project. 
 
-### Week 11 Mini project Method 
+### Week 11 Mini project Method (3/31)
 
 Create a plan for carrying out your project
 
-### Week 12 – 14 Production
+### Week 12 – 14 Production (4/7, 4/14, 4/21)
 
 Carryout your project while documenting your findings along the way
 
-### Week 15 – 16 Analysis and Dissemination
+### Week 15 – 16 Analysis and Dissemination (4/28, 5/5)
 
 Organize your findings and document them in a report. Prepare a 8-10 minute presentation on your project.
 
