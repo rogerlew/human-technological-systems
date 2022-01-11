@@ -6,7 +6,8 @@ Spring 2022<br>
 CRN 74617<br>
 Jan 12, 2022  - May 13, 2022  	02:00 pm - 03:15 pm 	TR<br>
 Virtual Meetings
-https://uidaho.zoom.us/j/8621573897<nine>
+
+```https://uidaho.zoom.us/j/8621573897<nine>```
 
 
 ## Instructor
@@ -37,7 +38,13 @@ This is an 16-week onine course to introduce Virtual Technology and Design stude
 
 ## Tentative Schedule
 
-### Week 1 - Introduction to Human Factors (1/13, 1/18)
+### Week 0 - Introduction to the Course, Introduction to Human Factors (1/13)
+
+Introductions
+Course Description, Goals, Expecations
+
+### Week 1 - Introduction to Human Factors (1/18)
+
 What is human factors?
 Principles of human factors
 
@@ -56,7 +63,10 @@ Principles of human factors
 [NN/g. 10 UX Research Cheat Sheet](https://www.nngroup.com/articles/ux-research-cheat-sheet/)
 
 
-Assignment 1: Evaluate a bad design. What is it? Why is it bad? What human factors or usability principles does it violate? How could it be improved?
+Assignment 1 (due 1/25): Evaluate a bad design. What is it? Why is it bad? What human factors or usability principles does it violate? How could it be improved? 
+
+(Looking for quality over quantity. Photos, diagrams, animations are welcome. The tone should be professional but doesn't necessarily need to be academic.)
+
 
 ### Week 3 - Human error and human reliability (1/27, 2/1)
 
