@@ -6,6 +6,7 @@ Spring 2022<br>
 CRN 74617<br>
 Jan 12, 2022  - May 13, 2022  	02:00 pm - 03:15 pm 	TR<br>
 Virtual Meetings
+https://uidaho.zoom.us/j/8621573897<nine>
 
 
 ## Instructor
@@ -42,7 +43,7 @@ Principles of human factors
 
 **Read:** 
 
-Donald A. Norman (2013). The Design of Everyday Things. Basic Books. Chapter 1. The PsychoPathology of Everyday Things.
+[Donald A. Norman (2013). The Design of Everyday Things. Basic Books. Chapter 1. The PsychoPathology of Everyday Things.](https://github.com/rogerlew/human-technological-systems/raw/main/readings/NormanD_DesignOfEverydayThings_Chapter1.pdf)
 
 ### Week 2 - Usability, User Experience (1/20, 1/25)
 
