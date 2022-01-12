@@ -72,7 +72,7 @@ Assignment 1 (due 1/25): Evaluate a bad design. What is it? Why is it bad? What 
 
 **Read:** 
 
-Reason, James (1980). Human error: models and management. BMJ 2000 (320), 768-770.
+[Reason, James (1980). Human error: models and management. BMJ 2000 (320), 768-770.](https://github.com/rogerlew/human-technological-systems/raw/main/readings/Reason2000.pdf)
 
 [ErgonomicsBlog.uk Performance Shaping Factors](https://ergonomicsblog.uk/performance-shaping-factors/)
 
@@ -80,35 +80,34 @@ Reason, James (1980). Human error: models and management. BMJ 2000 (320), 768-77
 
 **Read:** 
 
-Kim Vincente. (2004). The Human Factor. Chapter 2. Why is Technology So Out Of Control? Walking Around Half-Blind.
+[Kim Vincente. (2004). The Human Factor. Chapter 2. Why is Technology So Out Of Control? Walking Around Half-Blind.](https://github.com/rogerlew/human-technological-systems/raw/main/readings/Kim_Vicente_The_Human_Factor.pdf)
 
 Clayton M. Christensen, Michael E. Raynor, and Rory McDonald (2015). [What Is Disruptive Innovation? Harvard Business Review]
 (https://hbr.org/2015/12/what-is-disruptive-innovation)
 
 **Assignment 2:** Identify and describe a human technology system that could benefit from innovative disruption or is undergoing innovative disruption. Describe challenges faced by the innovative disruption and how you could help to solve those challenges. 
 
-### Week 5 - Human Performance and Evaluation (2/10, 2/15)
- - Primary task performance
-   - accuracy
-   - time
- - Human Errors (commission, omission, sequence, timing, error rates)
- - Physiological measures
-   - eye tracking
-   - skin conductance
-   - EEG 
- - Subjective
-   - Workload
-   - Situational Awareness
+### Week 5 - Design, Science, Engineering (2/10, 2/15)
 
-### Week 6 - Design and prototyping (2/17, 2/22)
+How are design, science, and engineering different? or the same? Are Design Thinking, First Principles Design, Design Science, Design Process, Engineering Design substantive concepts worthy of study or just Buzzwords. The goal of this week is to explore these topics and for you to articulate informed opinions about the topic and your approach as a designer/engineer/scientist/analyst/<blank>.
+    
+**Assignment 3:** Describe your approach to problem solving and conceptualizing a design solution. How did you acquire or evolve this approach? What are the strengths of your approach or how is your approach tailored to your strengths. What are the weakness of your approach, how might you mitigate them in the future.
 
-**Assignment 3:** Explore a new (to you) design or prototyping tool and document your experience using the tool. What is it? What does it do? What did you do with it? Did you find it worthwhile?
+### Week 6 - Design and prototyping (Maker week) (2/17, 2/22)
 
-### Week 7 -  Virtual Reality (2/24, 3/1)
+**Assignment 4:** Make a physical or virtual prototype of something that makes your life easier, faster, better, or more entertaining. Document what you made and what you would do differently. Bonus points for using and documenting a process or technique that is new to you.
+
+### Week 7 -  Virtual Reality, Metaverse, Blockchain (2/24, 3/1)
 
 Best practices
 
-Read: Oculus Developer. https://developer.oculus.com/learn/
+Read: 
+    
+[Pietro Cipresso, Irene Alice Chicchi Giglioli, Mariano Alcañiz Raya3 and Giuseppe Riva (2018). The Past, Present, and Future of Virtual and Augmented Reality Research: A Network and Cluster Analysis of the Literature. Frontiers in Psychology.](https://github.com/rogerlew/human-technological-systems/raw/main/readings/fpsyg-09-02086.pdf)
+    
+Watch:
+    
+[IOHK | Cardano whiteboard; overview with Charles Hoskinson](https://www.youtube.com/watch?v=Ja9D0kpksxw&t=2s)
 
 ### Week 8 - mixed-initiative systems (3/8, 3/10)
 
