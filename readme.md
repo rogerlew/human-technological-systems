@@ -97,6 +97,8 @@ How are design, science, and engineering different? or the same? Are Design Thin
 
 **Assignment 4:** Make a physical or virtual prototype of something that makes your life easier, faster, better, or more entertaining. Document what you made and what you would do differently. Bonus points for using and documenting a process or technique that is new to you.
 
+This week is more about "the making" and less about the originality of what you are making. 
+
 ### Week 7 -  Virtual Reality, Metaverse, Blockchain (2/24, 3/1)
 
 Best practices
