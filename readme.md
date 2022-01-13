@@ -117,7 +117,7 @@ Watch:
 
 Miller, Randall (April 2019). [How digital technologies are transforming aerospace and defense.](https://www.ey.com/en_gl/aerospace-defense/how-digital-technologies-are-transforming-aerospace-and-defense) ey.com. 
 
-**Assignment 4:** Create a design concept for a mixed-initiative system. What is it? What does it do? How is it better than current alternatives?
+**Assignment 5:** "Sketch" a design concept for a mixed-initiative system. What is it? What does it do? How is it better than current alternatives?
 
 
 ### Week 9 - 15 - Miniproject
