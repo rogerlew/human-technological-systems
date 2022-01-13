@@ -122,7 +122,19 @@ Miller, Randall (April 2019). [How digital technologies are transforming aerospa
 
 ### Week 9 - 15 - Miniproject
 
-Students develop independent miniprojects related to human technological systems or human machine interfaces. Students will submit weekly status reports and meet with the instructor as needed. The miniprojects will culminate in a written report and a 8-10 minute oral
+Students develop independent miniprojects related to human technological systems or human machine interfaces. Students will submit weekly status reports and meet with the instructor as needed. The miniprojects will culminate in a written report and a 8-10 minute oral.
+    
+    
+  - The topic and the employed methods are largely up-to-you (I will provide feedback along the way).
+  - The goal is to learn through experience and document the process
+  - example topics
+    - conceptual exploration of a future with humanoid robots with strong AI
+    - prototyping of a novel interaction for Virtual Reality
+    - Development of an AR application
+    - prototype of an automation technology
+  - Write short progress reports to tell me about your project
+  - Hang-out sessions Tuesdays and Thursdays to talk one-on-one or as a group about your project. (Or just hangout and/or work.)
+  - Short final presentation during finals week
     
 #### Status Reports
     
