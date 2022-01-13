@@ -123,23 +123,37 @@ Miller, Randall (April 2019). [How digital technologies are transforming aerospa
 ### Week 9 - 15 - Miniproject
 
 Students develop independent miniprojects related to human technological systems or human machine interfaces. Students will submit weekly status reports and meet with the instructor as needed. The miniprojects will culminate in a written report and a 8-10 minute oral
+    
+#### Status Reports
+    
+Document where you are at with your project. Status reports are due:    
+Thursday, March 24
+Thursday, March 31
+Thursday, April 14
+Thursday, April 28
 
+The Final report is due Monday, May 9 of Final's week.
 ### Week 9 – 10 Project Identification (Spring Break, 3/24)
 
-Identify a problem space and the goal or intent of your mini project. 
+Identify a problem space and the goal or intent of your mini project. Conduct and summarize research to describe the problem space, prior art (alternatives, similiar products) and how your project fits in.
 
 ### Week 11 Mini project Method (3/31)
 
-Create a plan for carrying out your project
+Create a plan for carrying out your project. What tools or techniques will you use? Do you have experience with those tools and techniques? What challenges might you face, how will you mitigate those challenges?
 
 ### Week 12 – 14 Production (4/7, 4/14, 4/21)
 
 Carryout your project while documenting your findings along the way
 
-### Week 15 – 16 Analysis and Dissemination (4/28, 5/5)
+### Week 15 – 16 Analysis and Dissemination (4/28, 5/5, Finals week)
 
-Organize your findings and document them in a report. Prepare a 8-10 minute presentation on your project.
+Organize your findings and document them in a report. Prepare a 8-10 minute presentation on your project during the timeslot for our Final's Monday May 9, 12:45 - 2:45.
 
 ## Grading
-Assignments 50% (12.5% per assignment) Mini-project and presentation 50% (40% project report, 10% presentation)
+Assignments 50% (12.5% per assignment) Mini-project and presentation 50% (20% status reports, 20% project report, 10% presentation)
 
+## Administrivia
+    
+(UI 2022 Calendary)[https://www.uidaho.edu/-/media/UIdaho-Responsive/Files/registrar/Registrar/2021-22academiccalendar.pdf?la=en&hash=13733C63006BE4B84584962F414A906680E8649A]
+    
+(UI Finals Schedule)[https://www.uidaho.edu/registrar/classes/finals/spring]
