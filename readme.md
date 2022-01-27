@@ -64,7 +64,7 @@ Principles of human factors
 [NN/g. 10 UX Research Cheat Sheet](https://www.nngroup.com/articles/ux-research-cheat-sheet/)
 
 
-Assignment 1 (due 1/25): Evaluate a bad design. What is it? Why is it bad? What human factors or usability principles does it violate? How could it be improved? 
+Assignment 1 (due 1/25): Evaluate a bad design. The design should be a product. It could be digital, physical, or both. Be sure to evaluate a product and not just a design choice or feature of the product. What is it? Why is it bad? What human factors or usability principles does it violate? (Please provide a citation for the principle, e.g. one of NN/g Usability Heuristics). How could it be improved? 
 
 (Looking for quality over quantity. Photos, diagrams, animations are welcome. The tone should be professional but doesn't necessarily need to be academic.)
 
