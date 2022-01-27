@@ -1,3 +1,8 @@
 # Assignment 1s
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kvw5cMSe21o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[https://www.youtube.com/watch?v=kvw5cMSe21o](A Little Story about Bad Design)
+
+[https://github.com/rogerlew/human-technological-systems/blob/main/spring21/assignment01/JCasetta_Bad_Design.pptx?raw=true](Battlefield 2042)
+
+[https://github.com/rogerlew/human-technological-systems/blob/main/spring21/assignment01/right-handed-auditorium-seats.pdf](Right Handed Auditorium Seats)
+
