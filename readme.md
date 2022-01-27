@@ -78,7 +78,8 @@ Assignment 1 (due 1/25): Evaluate a bad design. What is it? Why is it bad? What 
 [ErgonomicsBlog.uk Performance Shaping Factors](https://ergonomicsblog.uk/performance-shaping-factors/)
 
 **Bonus Material:**
-[https://github.com/rogerlew/human-technological-systems/raw/main/readings/Lin-Allhoff2008_Article_UntanglingTheDebateTheEthicsOf.pdf](Untangling the debate: The ethics of human enhancement)
+
+[Untangling the debate: The ethics of human enhancement](https://github.com/rogerlew/human-technological-systems/raw/main/readings/Lin-Allhoff2008_Article_UntanglingTheDebateTheEthicsOf.pdf)
 
 ### Week 4 - Human Technological Systems and Innovative Disruption (2/3, 2/8)
 
