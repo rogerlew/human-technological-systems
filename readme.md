@@ -64,10 +64,11 @@ Principles of human factors
 [NN/g. 10 UX Research Cheat Sheet](https://www.nngroup.com/articles/ux-research-cheat-sheet/)
 
 
-Assignment 1 (due 1/25): Evaluate a bad design. The design should be a product. It could be digital, physical, or both. Be sure to evaluate a product and not just a design choice or feature of the product. What is it? Why is it bad? What human factors or usability principles does it violate? (Please provide a citation for the principle, e.g. one of NN/g Usability Heuristics). How could it be improved? 
+Assignment 1 (due 1/25): Evaluate a bad design. The design should be a product. It could be digital, physical, or both. Be sure to evaluate a product and not just a design choice or feature of the product. What is it? Why is it bad? What human factors or usability principles does it violate? (Please provide a citation for the principle, e.g. one of NN/g Usability Heuristics). How could it be improved? Please include a descriptive title.
 
 (Looking for quality over quantity. Photos, diagrams, animations are welcome. The tone should be professional but doesn't necessarily need to be academic.)
 
+[Spring 2021 - Assignment 1s](https://github.com/rogerlew/human-technological-systems/blob/main/spring21-assignment01.md)
 
 ### Week 3 - Human error and human reliability (1/27, 2/1)
 
@@ -90,7 +91,7 @@ Assignment 1 (due 1/25): Evaluate a bad design. The design should be a product. 
 Clayton M. Christensen, Michael E. Raynor, and Rory McDonald (2015). [What Is Disruptive Innovation? Harvard Business Review]
 (https://hbr.org/2015/12/what-is-disruptive-innovation)
 
-**Assignment 2:** Identify and describe a human technology system that could benefit from innovative disruption or is undergoing innovative disruption. Describe challenges faced by the innovative disruption and how you could help to solve those challenges. 
+**Assignment 2:** Identify and describe a human technology system that could benefit from innovative disruption or is undergoing innovative disruption. Describe challenges faced by the innovative disruption and how you could help to solve those challenges. Please include a descriptive title.
 
 ### Week 5 - Design, Science, Engineering (2/10, 2/15)
 
