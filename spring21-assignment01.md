@@ -23,3 +23,6 @@
 [Jesse Ross - Evaluate a Bad Design: The Common Desk Fan](https://github.com/rogerlew/human-technological-systems/blob/main/spring21/assignment01/rossjesse_9709_532866_ross4680_A1_EvalBadDesign.pdf)
 
 [Aidan Verveckken - Bad Design: Smart Light Switch Panels](https://github.com/rogerlew/human-technological-systems/blob/main/spring21/assignment01/verveckkenaidan_13359_536888_Assignment%20%231%20Bad%20Design.pdf)
+
+[Dominic Nayan - iOverlander](https://github.com/rogerlew/human-technological-systems/blob/main/spring21/assignment01/VTD_Assignment1_DominicNayan.pdf)
+
