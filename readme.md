@@ -97,8 +97,11 @@ As a group review your assigned accidents for the following information:
 - Did the lessons learned from the first accident mitigate the second? or where the lessons forgotten? 
 
 Accidents
+
 Breakout Group 1 - Texas City Port Disaster 1947 vs. Beirut Explosion 2020
+
 Breakout Group 2 - Chernobyl Disaster 1986 vs. Fukishima Disaster 2011
+
 Breakout Group 3 - RMS Titanic 1912 vs. Exxon Valdez Oil Spill 1989
 
 You have 45 minutes to conduct this activity. Please prepare a 5-10 minute PowerPoint presentation to describe your findings. During the last 30 minutes groups will present their presentation as a group (ideally everyone should take a turn presenting).
