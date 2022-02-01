@@ -63,6 +63,10 @@ Principles of human factors
 
 [NN/g. 10 UX Research Cheat Sheet](https://www.nngroup.com/articles/ux-research-cheat-sheet/)
 
+**Group Discussion**
+
+Conceive a product and the UX/Usability tasks required to develop and bring the product to market.
+
 
 Assignment 1 (due 1/25): Evaluate a bad design. The design should be a product. It could be digital, physical, or both. Be sure to evaluate a product and not just a design choice or feature of the product. What is it? Why is it bad? What human factors or usability principles does it violate? (Please provide a citation for the principle, e.g. one of NN/g Usability Heuristics). How could it be improved? Please include a descriptive title.
 
@@ -70,13 +74,34 @@ Assignment 1 (due 1/25): Evaluate a bad design. The design should be a product. 
 
 [Spring 2021 - Assignment 1s](https://github.com/rogerlew/human-technological-systems/blob/main/spring21-assignment01.md)
 
-### Week 3 - Human error and human reliability (1/27, 2/1)
+### Week 3 - Human error, human reliability, and Human Performance (1/27, 2/1)
 
 **Read:** 
 
 [Reason, James (1980). Human error: models and management. BMJ 2000 (320), 768-770.](https://github.com/rogerlew/human-technological-systems/raw/main/readings/Reason2000.pdf)
 
 [ErgonomicsBlog.uk Performance Shaping Factors](https://ergonomicsblog.uk/performance-shaping-factors/)
+
+
+**Break out: Did we learn? Examining High Consequence Events**
+
+The goal of the system approach to undertstanding human error is to understand that humans are error prone and to design systems that are resilient to human error. Throughout history we have experienced numerous high-consequence events. During this breakout exercise you will compare and contrast two events and assess whether lessons from the first accident help or hindered the latter.
+
+As a group review your assigned accidents for the following information:
+
+- Summary: What happened? Where did it happen? When did it happen? What were the consequences (human life, property, environment)?
+- What was the cause(s) of the accident?
+- What was the role of human error and decision making? 
+  - Do these follow the person approach or the system approach?
+- What are the lessons learned from the accident?
+- Did the lessons learned from the first accident mitigate the second? or where the lessons forgotten? 
+
+Accidents
+Breakout Group 1 - Texas City Port Disaster 1947 vs. Beirut Explosion 2020
+Breakout Group 2 - Chernobyl Disaster 1986 vs. Fukishima Disaster 2011
+Breakout Group 3 - RMS Titanic 1912 vs. Exxon Valdez Oil Spill 1989
+
+You have 45 minutes to conduct this activity. Please prepare a 5-10 minute PowerPoint presentation to describe your findings. During the last 30 minutes groups will present their presentation as a group (ideally everyone should take a turn presenting).
 
 **Bonus Material:**
 
@@ -88,7 +113,7 @@ Assignment 1 (due 1/25): Evaluate a bad design. The design should be a product. 
 
 [Kim Vincente. (2004). The Human Factor. Chapter 2. Why is Technology So Out Of Control? Walking Around Half-Blind.](https://github.com/rogerlew/human-technological-systems/raw/main/readings/Kim_Vicente_The_Human_Factor.pdf)
 
-Clayton M. Christensen, Michael E. Raynor, and Rory McDonald (2015). [What Is Disruptive Innovation? Harvard Business Review]
+[Clayton M. Christensen, Michael E. Raynor, and Rory McDonald (2015). What Is Disruptive Innovation? Harvard Business Review]
 (https://hbr.org/2015/12/what-is-disruptive-innovation)
 
 **Assignment 2:** Identify and describe a human technology system that could benefit from innovative disruption or is undergoing innovative disruption. Describe challenges faced by the innovative disruption and how you could help to solve those challenges. Please include a descriptive title.
