@@ -119,7 +119,7 @@ You have 45 minutes to conduct this activity. Please prepare a 5-10 minute Power
 [Clayton M. Christensen, Michael E. Raynor, and Rory McDonald (2015). What Is Disruptive Innovation? Harvard Business Review]
 (https://hbr.org/2015/12/what-is-disruptive-innovation)
 
-**Assignment 2:** Identify and describe a human technology system that could benefit from innovative disruption or is undergoing innovative disruption. Describe challenges faced by the innovative disruption and how you could help to solve those challenges. Please include a descriptive title.
+**Assignment 2 (Due Tuesday February 15):** Identify and describe a human technological system that could benefit from innovative disruption or is undergoing innovative disruption. What is the problem. Describe challenges faced by the innovative disruption and how you could help to solve those challenges. Please include a descriptive title. Where in Vincente's Human Tech Ladder (physical, psychological, team, organization, political) does the innovation fall.
 
 ### Week 5 - Design, Science, Engineering (2/10, 2/15)
 
