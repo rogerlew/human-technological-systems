@@ -150,6 +150,9 @@ Watch:
 **Read:** 
 
 Miller, Randall (April 2019). [How digital technologies are transforming aerospace and defense.](https://www.ey.com/en_gl/aerospace-defense/how-digital-technologies-are-transforming-aerospace-and-defense) ey.com. 
+    
+**Watch:**
+ Clune, Jeff (2019). [Keynote: Fueling Innovation Engines by Creating, Collecting, and Improving Stepping.](https://www.youtube.com/watch?v=fxWw_buT_vM)
 
 **Assignment 5:** Figuratively "Sketch" (Give me the kickstarter version) concept for a mixed-initiative system. What is it? What does it do? How is it better than current alternatives?
 
