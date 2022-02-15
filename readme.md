@@ -125,7 +125,7 @@ You have 45 minutes to conduct this activity. Please prepare a 5-10 minute Power
 
 How are design, science, and engineering different? or the same? Are Design Thinking, First Principles Design, Design Science, Design Process, Engineering Design substantive concepts worthy of study or just Buzzwords. The goal of this week is to explore these topics and for you to articulate informed opinions about the topic and your approach as a designer/engineer/scientist/analyst/<blank>.
     
-**Assignment 3:** Describe your approach to problem solving and conceptualizing a design solution. How did you acquire or evolve this approach? What are the strengths of your approach or how is your approach tailored to your strengths. What are the weakness of your approach, how might you mitigate them in the future.
+**Assignment 3:** Describe your approach to problem solving and conceptualizing a design solution. How did you acquire or evolve this approach? What are the strengths of your approach or how is your approach tailored to your strengths. What are the weakness of your approach, how might you mitigate them in the future. Provide a descriptive title.
 
 ### Week 6 - Design and prototyping (Maker week) (2/17, 2/22)
 
