@@ -129,7 +129,7 @@ How are design, science, and engineering different? or the same? Are Design Thin
 
 ### Week 6 - Design and prototyping (Maker week) (2/17, 2/22)
 
-**Read: ** [Paul Graham - Hackers and Painters](http://www.paulgraham.com/hp.html)
+**Read:** [Paul Graham - Hackers and Painters](http://www.paulgraham.com/hp.html)
     
 **Assignment 4:** Make a physical or virtual prototype of something that makes your life easier, faster, better, or more entertaining. Document what you made and what you would do differently. Bonus points for using and documenting a process or technique that is new to you.
 
