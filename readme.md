@@ -131,7 +131,7 @@ How are design, science, and engineering different? or the same? Are Design Thin
 
 **Read:** [Paul Graham - Hackers and Painters](http://www.paulgraham.com/hp.html)
     
-**Assignment 4:** Make a physical or virtual prototype of something that makes your life easier, faster, better, or more entertaining. Document what you made and what you would do differently. Bonus points for using and documenting a process or technique that is new to you.
+**Assignment 4 (Due 3/1):** Make a physical or virtual prototype of something that makes your life easier, faster, better, or more entertaining. Document what you made and what you would do differently. Bonus points for using and documenting a process or technique that is new to you.
 
 This week is more about "the making" and less about the originality of what you are making. 
 
