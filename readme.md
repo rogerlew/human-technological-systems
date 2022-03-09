@@ -149,8 +149,6 @@ Watch:
 
 ### Week 8 - mixed-initiative systems (3/8, 3/10)
 
-**Read:** 
-    
 A mixed-initiative system is a system in which autonomous agents and humans interact to accomplish a common goal. Another way to put it is when humans and autonomous systems are "teamed" with one another. An example would be ride-sharing services like Uber or Lyft. The drivers (humans) are teamed with autonomous algorithms that pair riders to cars and assist in navigation.
     
 The internet of things is making devices more connected and able to integrate with one another. This includes sensors for temperature, humidity, occupancy, location; as well as smart appliance; and smart devices like robotic vacuums, light bulbs, HVAC systems, etc.
@@ -160,6 +158,8 @@ Simultaneously the capabilities of artificial intelligence is accelerating as th
 AI will be critical to mixed-initiative systems where they can take initiative to adjust sytems without human intervention (e.g. a smart thermostat adjusting the temperature to save energy after you leave the house). However, human oversight, control, and intervention is also important with a mixed initiative system. For example, over time your smart thermostat could operate on more than just your presence or absence. It could learn you circadian patterns turning down the thermostat while you sleep, or adjusting to your activity level, or even sensing your radiant energy and adjusting the temperature to maximize your comfort. 
     
 The billions of interconnected devices in conjunction with AI offers a vast potential of possibilities. 
+    
+**Read:** 
     
 Miller, Randall (April 2019). [How digital technologies are transforming aerospace and defense.](https://www.ey.com/en_gl/aerospace-defense/how-digital-technologies-are-transforming-aerospace-and-defense) ey.com. 
     
