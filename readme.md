@@ -208,7 +208,21 @@ Carryout your project while documenting your findings along the way
 
 ### Week 15 – 16 Analysis and Dissemination (4/28, 5/5, Finals week)
 
-Organize your findings and document them in a report. Prepare a 8-10 minute presentation on your project during the timeslot for our Final's Monday May 9, 12:45 - 2:45.
+Organize your findings and document them in a written report. The report should describe the following: 
+    
+- Introduction
+    - the problem, alternative solutions, your goals
+- Method
+    - what are you doing to examine the problem or prototype a solution
+- Analysis/assessment
+    - how successful was your approach/process/work. Could include user testing or not. 
+      Could just be a self-assessment of how the project went
+- Conclusions and discussion
+    
+Pictures would be nice. Probably should be 5-10 pages. Could be in a manuscript format (e.g. APA Style) 
+or could more graphical PDF/marketing styled document.
+    
+Prepare a 8-10 minute presentation on your project during the timeslot for our Final's Monday May 9, 12:45 - 2:45.
 
 ## Grading
 Assignments 50% (12.5% per assignment) Mini-project and presentation 50% (20% status reports, 20% project report, 10% presentation)
