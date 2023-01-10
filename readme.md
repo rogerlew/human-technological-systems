@@ -8,6 +8,7 @@ Jan 11, 2022  - May 12, 2022  	02:00 pm - 03:15 pm 	TR<br>
 Virtual Meetings
 
 Zoom: ```https://uidaho.zoom.us/j/89888342797```
+
 Passcode: ```159292```
 
 
