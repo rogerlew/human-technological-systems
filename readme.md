@@ -181,6 +181,17 @@ It's Time to Pay Attention to A.I (ChatGPT and Beyond)
 https://www.youtube.com/watch?v=0uQqMxXoNVs
     
     
+    
+### Week 11 Tony Seba - The great transformation part 3 The Disruption of Energy
+    
+https://www.youtube.com/watch?v=fsnkPLkf1ao
+    
+
+Cold Fusion
+It's Time to Pay Attention to A.I (ChatGPT and Beyond)
+https://www.youtube.com/watch?v=0uQqMxXoNVs
+    
+    
 ### Week 9 - 15 - Miniproject
 
 Students develop independent miniprojects related to human technological systems or human machine interfaces. Students will submit weekly status reports and meet with the instructor as needed. The miniprojects will culminate in a written report and a 8-10 minute oral.
