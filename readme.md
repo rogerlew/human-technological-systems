@@ -169,7 +169,12 @@ Miller, Randall (April 2019). [How digital technologies are transforming aerospa
 
 **Assignment 5:** Figuratively "Sketch" (Give me the kickstarter version) concept for a mixed-initiative system. What is it? What does it do? How is it better than current alternatives?
 
-
+### Week 9 Smart Cities
+    
+Batty, et al. (2012). [Smart Cities of the Future.](batty_smart_cities_e2012-01703-3.pdf)
+    
+    
+    
 ### Week 9 - 15 - Miniproject
 
 Students develop independent miniprojects related to human technological systems or human machine interfaces. Students will submit weekly status reports and meet with the instructor as needed. The miniprojects will culminate in a written report and a 8-10 minute oral.
