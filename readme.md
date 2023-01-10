@@ -174,6 +174,12 @@ Miller, Randall (April 2019). [How digital technologies are transforming aerospa
 Batty, et al. (2012). [Smart Cities of the Future.](batty_smart_cities_e2012-01703-3.pdf)
     
     
+### Week 10 Generative AI ChatGPT/DALL-E 2
+
+Cold Fusion
+It's Time to Pay Attention to A.I (ChatGPT and Beyond)
+https://www.youtube.com/watch?v=0uQqMxXoNVs
+    
     
 ### Week 9 - 15 - Miniproject
 
