@@ -1,13 +1,14 @@
-# VTD 404 ST:Human Machine Interfaces
+# VTD 425: Human Technological Systems and Human Machine Interface Seminar
 
 University of Idaho<br>
 3 Credits<br>
-Spring 2022<br>
-CRN 74617<br>
-Jan 12, 2022  - May 13, 2022  	02:00 pm - 03:15 pm 	TR<br>
+Spring 2023<br>
+CRN 77044<br>
+Jan 11, 2022  - May 12, 2022  	02:00 pm - 03:15 pm 	TR<br>
 Virtual Meetings
 
-```https://uidaho.zoom.us/j/8621573897<nine>```
+Zoom: ```https://uidaho.zoom.us/j/89888342797```
+Passcode: ```159292```
 
 
 ## Instructor
@@ -33,18 +34,17 @@ Topics include introduction to human factors, human technological systems, usabi
 
 **Recommended Preparation:** Graduate student status (5xx) *or* undergraduate who has taken a VTD 300-Level production course and one VTD 400-Level history and theory course, or with instructor approval.
 
-
 This is an 16-week onine course to introduce Virtual Technology and Design students to human factors, human computer interaction design and evaluation, emphasizing mixed-initiative systems and virtual reality. The first 8-weeks are to develop the theory and during the last 8-weeks students lead and conduct individual projects related to the course content. 
 
 ## Tentative Schedule
 
-### Week 0 - Introduction to the Course, Introduction to Human Factors (1/13)
+### Week 0 - Introduction to the Course, Introduction to Human Factors
 
 Introductions
 Course Description, Goals, Expecations
 [1/13 Notes](https://github.com/rogerlew/human-technological-systems/issues/1)
 
-### Week 1 - Introduction to Human Factors (1/18)
+### Week 1 - Introduction to Human Factors
 
 What is human factors?
 Principles of human factors
@@ -53,7 +53,7 @@ Principles of human factors
 
 [Donald A. Norman (2013). The Design of Everyday Things. Basic Books. Chapter 1. The PsychoPathology of Everyday Things.](https://github.com/rogerlew/human-technological-systems/raw/main/readings/NormanD_DesignOfEverydayThings_Chapter1.pdf)
 
-### Week 2 - Usability, User Experience (1/20, 1/25)
+### Week 2 - Usability, User Experience
 
 **Read:** 
 
@@ -74,7 +74,7 @@ Assignment 1 (due 1/25): Evaluate a bad design. The design should be a product. 
 
 [Spring 2021 - Assignment 1s](https://github.com/rogerlew/human-technological-systems/blob/main/spring21-assignment01.md)
 
-### Week 3 - Human error, human reliability, and Human Performance (1/27, 2/1)
+### Week 3 - Human error, human reliability, and Human Performance
 
 **Read:** 
 
@@ -110,7 +110,7 @@ You have 45 minutes to conduct this activity. Please prepare a 5-10 minute Power
 
 [Untangling the debate: The ethics of human enhancement](https://github.com/rogerlew/human-technological-systems/raw/main/readings/Lin-Allhoff2008_Article_UntanglingTheDebateTheEthicsOf.pdf)
 
-### Week 4 - Human Technological Systems and Innovative Disruption (2/3, 2/8)
+### Week 4 - Human Technological Systems and Innovative Disruption
 
 **Read:** 
 
@@ -119,15 +119,15 @@ You have 45 minutes to conduct this activity. Please prepare a 5-10 minute Power
 [Clayton M. Christensen, Michael E. Raynor, and Rory McDonald (2015). What Is Disruptive Innovation? Harvard Business Review]
 (https://hbr.org/2015/12/what-is-disruptive-innovation)
 
-**Assignment 2 (Due Tuesday February 15):** Identify and describe a human technological system that could benefit from innovative disruption or is undergoing innovative disruption. What is the problem. Describe challenges faced by the innovative disruption and how you could help to solve those challenges. Please include a descriptive title. Where in Vincente's Human Tech Ladder (physical, psychological, team, organization, political) does the innovation fall.
+**Assignment 2:** Identify and describe a human technological system that could benefit from innovative disruption or is undergoing innovative disruption. What is the problem. Describe challenges faced by the innovative disruption and how you could help to solve those challenges. Please include a descriptive title. Where in Vincente's Human Tech Ladder (physical, psychological, team, organization, political) does the innovation fall.
 
-### Week 5 - Design, Science, Engineering (2/10, 2/15)
+### Week 5 - Design, Science, Engineering
 
 How are design, science, and engineering different? or the same? Are Design Thinking, First Principles Design, Design Science, Design Process, Engineering Design substantive concepts worthy of study or just Buzzwords. The goal of this week is to explore these topics and for you to articulate informed opinions about the topic and your approach as a designer/engineer/scientist/analyst/<blank>.
     
 **Assignment 3:** Describe your approach to problem solving and conceptualizing a design solution. How did you acquire or evolve this approach? What are the strengths of your approach or how is your approach tailored to your strengths. What are the weakness of your approach, how might you mitigate them in the future. Provide a descriptive title.
 
-### Week 6 - Design and prototyping (Maker week) (2/17, 2/22)
+### Week 6 - Design and prototyping (Maker week)
 
 **Read:** [Paul Graham - Hackers and Painters](http://www.paulgraham.com/hp.html)
     
@@ -135,7 +135,7 @@ How are design, science, and engineering different? or the same? Are Design Thin
 
 This week is more about "the making" and less about the originality of what you are making. 
 
-### Week 7 -  Virtual Reality, Metaverse, Blockchain (2/24, 3/1)
+### Week 7 -  Virtual Reality, Metaverse, Blockchain
 
 Best practices
 
@@ -147,7 +147,7 @@ Watch:
     
 [IOHK | Cardano whiteboard; overview with Charles Hoskinson](https://www.youtube.com/watch?v=Ja9D0kpksxw&t=2s)
 
-### Week 8 - mixed-initiative systems (3/8, 3/10)
+### Week 8 - mixed-initiative systems
 
 A mixed-initiative system is a system in which autonomous agents and humans interact to accomplish a common goal. Another way to put it is when humans and autonomous systems are "teamed" with one another. An example would be ride-sharing services like Uber or Lyft. The drivers (humans) are teamed with autonomous algorithms that pair riders to cars and assist in navigation.
     
@@ -194,19 +194,19 @@ Thursday, April 14
 Thursday, April 28
 
 The Final report is due Monday, May 9 of Final's week.
-### Week 9 – 10 Project Identification (Spring Break, 3/24)
+### Week 9 – 10 Project Identification
 
 Identify a problem space and the goal or intent of your mini project. Conduct and summarize research to describe the problem space, prior art (alternatives, similiar products) and how your project fits in.
 
-### Week 11 Mini project Method (3/31)
+### Week 11 Mini project Method
 
 Create a plan for carrying out your project. What tools or techniques will you use? Do you have experience with those tools and techniques? What challenges might you face, how will you mitigate those challenges?
 
-### Week 12 – 14 Production (4/7, 4/14, 4/21)
+### Week 12 – 14 Production
 
 Carryout your project while documenting your findings along the way
 
-### Week 15 – 16 Analysis and Dissemination (4/28, 5/5, Finals week)
+### Week 15 – 16 Analysis and Dissemination
 
 Organize your findings and document them in a written report. The report should describe the following: 
     
@@ -222,7 +222,7 @@ Organize your findings and document them in a written report. The report should 
 Pictures would be nice. Probably should be 5-10 pages. Could be in a manuscript format (e.g. APA Style) 
 or could more graphical PDF/marketing styled document.
     
-Prepare a 8-10 minute presentation on your project during the timeslot for our Final's Monday May 9, 12:45 - 2:45.
+Prepare a 8-10 minute presentation on your project during the timeslot for our Final.
 
 ## Grading
 Assignments 50% (12.5% per assignment) Mini-project and presentation 50% (20% status reports, 20% project report, 10% presentation)
