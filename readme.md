@@ -124,7 +124,7 @@ You have 45 minutes to conduct this activity. Please prepare a 5-10 minute Power
 
 ### Week 5 - Design, Science, Engineering
 
-How are design, science, and engineering different? or the same? Are Design Thinking, First Principles Design, Design Science, Design Process, Engineering Design substantive concepts worthy of study or just Buzzwords. The goal of this week is to explore these topics and for you to articulate informed opinions about the topic and your approach as a designer/engineer/scientist/analyst/<blank>.
+How are design, science, and engineering different? or the same? Are Design Thinking, First Principles Design, Design Science, Design Process, Engineering Design substantive concepts worthy of study or just Buzzwords. The goal of this week is to explore these topics and for you to articulate informed opinions about the topic and your approach as a designer/engineer/scientist/analyst/(blank).
     
 **Assignment 3:** Describe your approach to problem solving and conceptualizing a design solution. How did you acquire or evolve this approach? What are the strengths of your approach or how is your approach tailored to your strengths. What are the weakness of your approach, how might you mitigate them in the future. Provide a descriptive title.
 
@@ -177,20 +177,26 @@ Batty, et al. (2012). [Smart Cities of the Future.](batty_smart_cities_e2012-017
 ### Week 10 Generative AI ChatGPT/DALL-E 2
 
 Cold Fusion
+
 It's Time to Pay Attention to A.I (ChatGPT and Beyond)
+
 https://www.youtube.com/watch?v=0uQqMxXoNVs
+
+
     
-    
-    
-### Week 11 Tony Seba - The great transformation part 3 The Disruption of Energy
+### Week 11 
+
+Tony Seba
+
+The great transformation part 3 The Disruption of Energy
     
 https://www.youtube.com/watch?v=fsnkPLkf1ao
     
+### Week 12
 
-Cold Fusion
-It's Time to Pay Attention to A.I (ChatGPT and Beyond)
-https://www.youtube.com/watch?v=0uQqMxXoNVs
+Human Robot Interaction
     
+https://www.interaction-design.org/literature/book/the-encyclopedia-of-human-computer-interaction-2nd-ed/human-robot-interaction
     
 ### Week 9 - 15 - Miniproject
 
