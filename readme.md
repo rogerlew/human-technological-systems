@@ -233,3 +233,4 @@ Assignments 50% (12.5% per assignment) Mini-project and presentation 50% (20% st
 (UI 2022 Calendary)[https://www.uidaho.edu/-/media/UIdaho-Responsive/Files/registrar/Registrar/2021-22academiccalendar.pdf?la=en&hash=13733C63006BE4B84584962F414A906680E8649A]
     
 (UI Finals Schedule)[https://www.uidaho.edu/registrar/classes/finals/spring]
+    
