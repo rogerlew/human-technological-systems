@@ -197,6 +197,12 @@ https://www.youtube.com/watch?v=fsnkPLkf1ao
 Human Robot Interaction
     
 https://www.interaction-design.org/literature/book/the-encyclopedia-of-human-computer-interaction-2nd-ed/human-robot-interaction
+
+### Week 13
+
+Anonymity and Identity on the Internet
+
+https://networkconference.netstudies.org/2020Curtin/2020/05/11/anonymity-and-identity-on-4chan/
     
 ### Week 9 - 15 - Miniproject
 
