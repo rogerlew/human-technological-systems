@@ -75,6 +75,78 @@ Assignment 1 (due 1/25): Evaluate a bad design. The design should be a product. 
 
 [Spring 2021 - Assignment 1s](https://github.com/rogerlew/human-technological-systems/blob/main/spring21-assignment01.md)
 
+## Themes
+
+  - Technology
+  - Mental Health and Wellbeing
+  - Soceital Heatth
+  - Futurism/Utopian/Dystopian
+
+## Topics
+
+### AI
+
+#### Virtual Assistants
+
+#### AI/Human teamed interaction as it relates to creative endeavors
+
+  - body doubling in meat space
+  - body doubling in virtual space
+  - accessibility accomodations for neurodivergence
+
+#### GAN (General adversiaral networks)
+
+  - chatgpt
+  - image synthesis DALL-E
+  - music synthesis
+  
+#### Non-entertainment fields
+
+  - AI companion
+  - Health care
+  - Transfer training
+
+### VR
+
+  - Environmental accomodations for neurodivergence
+  - Transfer training
+  
+### Innovative Disruption
+
+#### Autonomous Vehicles
+
+  - Tesla
+  - feasibility of autonomous vehicles
+    - legality, liability, trust
+  - emergent 
+  - interaction with semi-autonmous and autonomous vehicles
+
+#### Robots
+
+  - empathetic robots
+  - empathetic AI
+  - hospitality
+    - hotels, airports, etc.
+  - autonomous work displacing human labor
+    
+### Human Enhancement
+
+  - brain computer interfaces
+  - individually tailored drugs/gene therapy/disease prevention (mRNA)
+    - elimination of certain diseases or impairments (color blindness)
+  - AI personal assistance
+  - designer babies
+  - immortality
+  - human nature and human dignity
+  - transhumanism vs. posthumanism vs. continued humanism?
+  
+### Decentralization
+
+  - distributed networks
+  - energy
+  - information
+  - culminiation of BCI/mobile devices/mesh network protocols
+  
 ### Week 3 - Human error, human reliability, and Human Performance
 
 **Read:** 
