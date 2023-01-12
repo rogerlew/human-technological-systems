@@ -147,136 +147,21 @@ Assignment 1 (due 1/25): Evaluate a bad design. The design should be a product. 
   - information
   - culminiation of BCI/mobile devices/mesh network protocols
   
-### Week 3 - Human error, human reliability, and Human Performance
+# Assignments
 
-**Read:** 
-
-[Reason, James (1980). Human error: models and management. BMJ 2000 (320), 768-770.](https://github.com/rogerlew/human-technological-systems/raw/main/readings/Reason2000.pdf)
-
-[ErgonomicsBlog.uk Performance Shaping Factors](https://ergonomicsblog.uk/performance-shaping-factors/)
-
-
-**Break out: Did we learn? Examining High Consequence Events**
-
-The goal of the system approach to undertstanding human error is to understand that humans are error prone and to design systems that are resilient to human error. Throughout history we have experienced numerous high-consequence events. During this breakout exercise you will compare and contrast two events and assess whether lessons from the first accident help or hindered the latter.
-
-As a group review your assigned accidents for the following information:
-
-- Summary: What happened? Where did it happen? When did it happen? What were the consequences (human life, property, environment)?
-- What was the cause(s) of the accident?
-- What was the role of human error and decision making? 
-  - Do these follow the person approach or the system approach?
-- What are the lessons learned from the accident?
-- Did the lessons learned from the first accident mitigate the second? or where the lessons forgotten? 
-
-Accidents
-
-Breakout Group 1 - Texas City Port Disaster 1947 vs. Beirut Explosion 2020
-
-Breakout Group 2 - Chernobyl Disaster 1986 vs. Fukishima Disaster 2011
-
-Breakout Group 3 - RMS Titanic 1912 vs. Exxon Valdez Oil Spill 1989
-
-You have 45 minutes to conduct this activity. Please prepare a 5-10 minute PowerPoint presentation to describe your findings. During the last 30 minutes groups will present their presentation as a group (ideally everyone should take a turn presenting).
-
-**Bonus Material:**
-
-[Untangling the debate: The ethics of human enhancement](https://github.com/rogerlew/human-technological-systems/raw/main/readings/Lin-Allhoff2008_Article_UntanglingTheDebateTheEthicsOf.pdf)
-
-### Week 4 - Human Technological Systems and Innovative Disruption
-
-**Read:** 
-
-[Kim Vincente. (2004). The Human Factor. Chapter 2. Why is Technology So Out Of Control? Walking Around Half-Blind.](https://github.com/rogerlew/human-technological-systems/raw/main/readings/Kim_Vicente_The_Human_Factor.pdf)
-
-[Clayton M. Christensen, Michael E. Raynor, and Rory McDonald (2015). What Is Disruptive Innovation? Harvard Business Review]
-(https://hbr.org/2015/12/what-is-disruptive-innovation)
-
-**Assignment 2:** Identify and describe a human technological system that could benefit from innovative disruption or is undergoing innovative disruption. What is the problem. Describe challenges faced by the innovative disruption and how you could help to solve those challenges. Please include a descriptive title. Where in Vincente's Human Tech Ladder (physical, psychological, team, organization, political) does the innovation fall.
-
-### Week 5 - Design, Science, Engineering
+### Assignment 3
 
 How are design, science, and engineering different? or the same? Are Design Thinking, First Principles Design, Design Science, Design Process, Engineering Design substantive concepts worthy of study or just Buzzwords. The goal of this week is to explore these topics and for you to articulate informed opinions about the topic and your approach as a designer/engineer/scientist/analyst/(blank).
     
 **Assignment 3:** Describe your approach to problem solving and conceptualizing a design solution. How did you acquire or evolve this approach? What are the strengths of your approach or how is your approach tailored to your strengths. What are the weakness of your approach, how might you mitigate them in the future. Provide a descriptive title.
 
-### Week 6 - Design and prototyping (Maker week)
+### Assignment 4
 
 **Read:** [Paul Graham - Hackers and Painters](http://www.paulgraham.com/hp.html)
     
 **Assignment 4 (Due 3/1):** Make a physical or virtual prototype of something that makes your life easier, faster, better, or more entertaining. Document what you made and what you would do differently. Bonus points for using and documenting a process or technique that is new to you.
 
-This week is more about "the making" and less about the originality of what you are making. 
-
-### Week 7 -  Virtual Reality, Metaverse, Blockchain
-
-Best practices
-
-Read: 
-    
-[Pietro Cipresso, Irene Alice Chicchi Giglioli, Mariano Alcañiz Raya3 and Giuseppe Riva (2018). The Past, Present, and Future of Virtual and Augmented Reality Research: A Network and Cluster Analysis of the Literature. Frontiers in Psychology.](https://github.com/rogerlew/human-technological-systems/raw/main/readings/fpsyg-09-02086.pdf)
-    
-Watch:
-    
-[IOHK | Cardano whiteboard; overview with Charles Hoskinson](https://www.youtube.com/watch?v=Ja9D0kpksxw&t=2s)
-
-### Week 8 - mixed-initiative systems
-
-A mixed-initiative system is a system in which autonomous agents and humans interact to accomplish a common goal. Another way to put it is when humans and autonomous systems are "teamed" with one another. An example would be ride-sharing services like Uber or Lyft. The drivers (humans) are teamed with autonomous algorithms that pair riders to cars and assist in navigation.
-    
-The internet of things is making devices more connected and able to integrate with one another. This includes sensors for temperature, humidity, occupancy, location; as well as smart appliance; and smart devices like robotic vacuums, light bulbs, HVAC systems, etc.
-    
-Simultaneously the capabilities of artificial intelligence is accelerating as the compute power and cost to train AI is currently exceeding the rate of Moore's law. AI will be critical to the supervision and operation of complex systems. AI can process vast amounts of data and identify patterns more reliably than humans. 
-    
-AI will be critical to mixed-initiative systems where they can take initiative to adjust sytems without human intervention (e.g. a smart thermostat adjusting the temperature to save energy after you leave the house). However, human oversight, control, and intervention is also important with a mixed initiative system. For example, over time your smart thermostat could operate on more than just your presence or absence. It could learn you circadian patterns turning down the thermostat while you sleep, or adjusting to your activity level, or even sensing your radiant energy and adjusting the temperature to maximize your comfort. 
-    
-The billions of interconnected devices in conjunction with AI offers a vast potential of possibilities. 
-    
-**Read:** 
-    
-Miller, Randall (April 2019). [How digital technologies are transforming aerospace and defense.](https://www.ey.com/en_gl/aerospace-defense/how-digital-technologies-are-transforming-aerospace-and-defense) ey.com. 
-    
-**Watch:**
- Clune, Jeff (2019). [Keynote: Fueling Innovation Engines by Creating, Collecting, and Improving Stepping.](https://www.youtube.com/watch?v=fxWw_buT_vM)
-
-**Assignment 5:** Figuratively "Sketch" (Give me the kickstarter version) concept for a mixed-initiative system. What is it? What does it do? How is it better than current alternatives?
-
-### Week 9 Smart Cities
-    
-Batty, et al. (2012). [Smart Cities of the Future.](batty_smart_cities_e2012-01703-3.pdf)
-    
-    
-### Week 10 Generative AI ChatGPT/DALL-E 2
-
-Cold Fusion
-
-It's Time to Pay Attention to A.I (ChatGPT and Beyond)
-
-https://www.youtube.com/watch?v=0uQqMxXoNVs
-
-
-    
-### Week 11 
-
-Tony Seba
-
-The great transformation part 3 The Disruption of Energy
-    
-https://www.youtube.com/watch?v=fsnkPLkf1ao
-    
-### Week 12
-
-Human Robot Interaction
-    
-https://www.interaction-design.org/literature/book/the-encyclopedia-of-human-computer-interaction-2nd-ed/human-robot-interaction
-
-### Week 13
-
-Anonymity and Identity on the Internet
-
-https://networkconference.netstudies.org/2020Curtin/2020/05/11/anonymity-and-identity-on-4chan/
-    
-### Week 9 - 15 - Miniproject
+### Miniproject
 
 Students develop independent miniprojects related to human technological systems or human machine interfaces. Students will submit weekly status reports and meet with the instructor as needed. The miniprojects will culminate in a written report and a 8-10 minute oral.
     
