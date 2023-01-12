@@ -64,16 +64,10 @@ Principles of human factors
 
 [NN/g. 10 UX Research Cheat Sheet](https://www.nngroup.com/articles/ux-research-cheat-sheet/)
 
-**Group Discussion**
 
+*** Group Discussion ***
 Conceive a product and the UX/Usability tasks required to develop and bring the product to market.
 
-
-Assignment 1 (due 1/25): Evaluate a bad design. The design should be a product. It could be digital, physical, or both. Be sure to evaluate a product and not just a design choice or feature of the product. What is it? Why is it bad? What human factors or usability principles does it violate? (Please provide a citation for the principle, e.g. one of NN/g Usability Heuristics). How could it be improved? Please include a descriptive title.
-
-(Looking for quality over quantity. Photos, diagrams, animations are welcome. The tone should be professional but doesn't necessarily need to be academic.)
-
-[Spring 2021 - Assignment 1s](https://github.com/rogerlew/human-technological-systems/blob/main/spring21-assignment01.md)
 
 ## Themes
 
@@ -149,19 +143,22 @@ Assignment 1 (due 1/25): Evaluate a bad design. The design should be a product. 
   
 # Assignments
 
-### Assignment 3
+## Assignment 1 (due 2/3)
+
+Evaluate a bad design. The design should be a product. It could be digital, physical, or both. Be sure to evaluate a product and not just a design choice or feature of the product. What is it? Why is it bad? What human factors or usability principles does it violate? (Please provide a citation for the principle, e.g. one of NN/g Usability Heuristics). How could it be improved? Please include a descriptive title.
+
+(Looking for quality over quantity. Photos, diagrams, animations are welcome. The tone should be professional but doesn't necessarily need to be academic.)
 
 How are design, science, and engineering different? or the same? Are Design Thinking, First Principles Design, Design Science, Design Process, Engineering Design substantive concepts worthy of study or just Buzzwords. The goal of this week is to explore these topics and for you to articulate informed opinions about the topic and your approach as a designer/engineer/scientist/analyst/(blank).
     
-**Assignment 3:** Describe your approach to problem solving and conceptualizing a design solution. How did you acquire or evolve this approach? What are the strengths of your approach or how is your approach tailored to your strengths. What are the weakness of your approach, how might you mitigate them in the future. Provide a descriptive title.
 
-### Assignment 4
+### Assignment 2 (due 3/10)
 
 **Read:** [Paul Graham - Hackers and Painters](http://www.paulgraham.com/hp.html)
     
-**Assignment 4 (Due 3/1):** Make a physical or virtual prototype of something that makes your life easier, faster, better, or more entertaining. Document what you made and what you would do differently. Bonus points for using and documenting a process or technique that is new to you.
+Make a physical or virtual prototype of something that makes your life easier, faster, better, or more entertaining. Document what you made and what you would do differently. Bonus points for using and documenting a process or technique that is new to you.
 
-### Miniproject
+## Miniproject (Starting 3/20)
 
 Students develop independent miniprojects related to human technological systems or human machine interfaces. Students will submit weekly status reports and meet with the instructor as needed. The miniprojects will culminate in a written report and a 8-10 minute oral.
     
@@ -216,7 +213,7 @@ or could more graphical PDF/marketing styled document.
     
 Prepare a 8-10 minute presentation on your project during the timeslot for our Final.
 
-## Grading
+# Grading
 Assignments 50% (12.5% per assignment) Mini-project and presentation 50% (20% status reports, 20% project report, 10% presentation)
 
 # General Expectations and Information
