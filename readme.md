@@ -88,11 +88,21 @@ Conceive a product and the UX/Usability tasks required to develop and bring the 
   - body doubling in virtual space
   - accessibility accomodations for neurodivergence
 
-#### GAN (General adversiaral networks)
+### GAN (General adversiaral networks)
 
-  - chatgpt
-  - image synthesis DALL-E
-  - music synthesis
+#### Written Text
+  
+YouTube: Cold Fusion<br/>
+[It’s Time to Pay Attention to A.I. (ChatGPT and Beyond)](https://www.youtube.com/watch?v=0uQqMxXoNVs&t=11s)  
+
+[ChatGPT](https://openai.com/blog/chatgpt/)
+    
+[GPT-2 Detector](https://openai-openai-detector.hf.space)
+
+
+#### image synthesis DALL-E
+
+#### music synthesis
   
 #### Non-entertainment fields
 
