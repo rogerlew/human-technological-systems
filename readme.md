@@ -52,7 +52,10 @@ Topic Identification
 What is human factors?
 Principles of human factors
 
-**Read:** 
+**Materials:** 
+
+YouTube: CASABriefing<br/>
+[History of human factors](https://www.youtube.com/watch?v=5r1aFRiqLCI)
 
 Donald A. Norman (2013). [The Design of Everyday Things. Basic Books. Chapter 1. The PsychoPathology of Everyday Things.](https://github.com/rogerlew/human-technological-systems/raw/main/readings/NormanD_DesignOfEverydayThings_Chapter1.pdf)
 
@@ -60,7 +63,7 @@ Frank Buschmann (2010). [Learning from Failure, Part 2: Featuritis, Performatis,
 
 ### Week 2 - Usability, User Experience
 
-**Read:** 
+**Materials:** 
 
 [Usability Geek. The Difference Between Usability and User Experience.](https://usabilitygeek.com/the-difference-between-usability-and-user-experience/)
 
