@@ -42,8 +42,10 @@ This is an 16-week onine course to introduce Virtual Technology and Design stude
 ### Week 0 - Introduction to the Course, Introduction to Human Factors
 
 Introductions
-Course Description, Goals, Expecations
-[1/13 Notes](https://github.com/rogerlew/human-technological-systems/issues/1)
+
+Course Description
+
+Topic Identification
 
 ### Week 1 - Introduction to Human Factors
 
