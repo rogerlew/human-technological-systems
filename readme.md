@@ -80,8 +80,12 @@ Conceive a product and the UX/Usability tasks required to develop and bring the 
 
   - Technology
   - Mental Health and Wellbeing
-  - Soceital Heatth
-  - Futurism/Utopian/Dystopian
+  - Soceital Health
+  
+### Futurism/Utopian/Dystopian
+
+YouTube: Keiichi Matsuda<br/>
+[HYPER-REALITY](https://www.youtube.com/watch?v=YJg02ivYzSs)
 
 ## Topics
 
@@ -97,6 +101,9 @@ Conceive a product and the UX/Usability tasks required to develop and bring the 
 
 ### GAN (General adversiaral networks)
 
+Twitter: Eric Wall (shadowbanned)
+[AI Animation](https://twitter.com/ercwl/status/1613601350905888784?s=20&t=iJN6MY1c1IP6bN5TQrUoIQ)
+
 #### Written Text
   
 YouTube: Cold Fusion<br/>
@@ -107,7 +114,6 @@ Application<br/>
     
 Application<br/>
 [GPT-2 Detector](https://openai-openai-detector.hf.space)
-
 
 #### image synthesis DALL-E
 
@@ -124,7 +130,7 @@ YouTube: MegaTech Update<br/>
 
 ### Transfer training
 
-### VR
+### VR/AR
 
   - Environmental accomodations for neurodivergence
   - Transfer training
