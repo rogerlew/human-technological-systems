@@ -54,7 +54,7 @@ Principles of human factors
 
 **Materials:** 
 
-YouTube: CASABriefing<br/>
+YouTube: CASABriefing
 [History of human factors](https://www.youtube.com/watch?v=5r1aFRiqLCI)
 
 Donald A. Norman (2013). [The Design of Everyday Things. Basic Books. Chapter 1. The PsychoPathology of Everyday Things.](https://github.com/rogerlew/human-technological-systems/raw/main/readings/NormanD_DesignOfEverydayThings_Chapter1.pdf)
