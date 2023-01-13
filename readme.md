@@ -96,9 +96,13 @@ Conceive a product and the UX/Usability tasks required to develop and bring the 
   
 #### Non-entertainment fields
 
-  - AI companion
-  - Health care
-  - Transfer training
+### AI companion
+
+[The rise of AI Companion](https://www.youtube.com/watch?v=xw2LVCWG9o0)
+
+### Health care
+
+### Transfer training
 
 ### VR
 
