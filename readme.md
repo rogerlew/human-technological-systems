@@ -54,7 +54,9 @@ Principles of human factors
 
 **Read:** 
 
-[Donald A. Norman (2013). The Design of Everyday Things. Basic Books. Chapter 1. The PsychoPathology of Everyday Things.](https://github.com/rogerlew/human-technological-systems/raw/main/readings/NormanD_DesignOfEverydayThings_Chapter1.pdf)
+Donald A. Norman (2013). [The Design of Everyday Things. Basic Books. Chapter 1. The PsychoPathology of Everyday Things.](https://github.com/rogerlew/human-technological-systems/raw/main/readings/NormanD_DesignOfEverydayThings_Chapter1.pdf)
+
+Frank Buschmann (2010). [Learning from Failure, Part 2: Featuritis, Performatis, and Other Diseases]() 
 
 ### Week 2 - Usability, User Experience
 
