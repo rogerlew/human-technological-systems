@@ -95,8 +95,10 @@ Conceive a product and the UX/Usability tasks required to develop and bring the 
 YouTube: Cold Fusion<br/>
 [It’s Time to Pay Attention to A.I. (ChatGPT and Beyond)](https://www.youtube.com/watch?v=0uQqMxXoNVs&t=11s)  
 
+Application<br/>
 [ChatGPT](https://openai.com/blog/chatgpt/)
     
+Application<br/>
 [GPT-2 Detector](https://openai-openai-detector.hf.space)
 
 
