@@ -108,7 +108,8 @@ YouTube: Cold Fusion<br/>
 
 ### AI companion
 
-MegaTech Update [The rise of AI Companion](https://www.youtube.com/watch?v=xw2LVCWG9o0)
+YouTube: MegaTech Update<br/>
+[The rise of AI Companion](https://www.youtube.com/watch?v=xw2LVCWG9o0)
 
 ### Health care
 
