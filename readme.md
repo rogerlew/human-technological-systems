@@ -129,7 +129,7 @@ YouTube: MegaTech Update<br/>
   - Tesla
   - feasibility of autonomous vehicles
     - legality, liability, trust
-  - emergent 
+  - emergent features of autonomous vehicles/robotaxis
   - interaction with semi-autonmous and autonomous vehicles
 
 #### Robots
