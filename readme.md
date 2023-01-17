@@ -98,6 +98,10 @@ YouTube: Keiichi Matsuda<br/>
   - body doubling in meat space
   - body doubling in virtual space
   - accessibility accomodations for neurodivergence
+  
+  Attitude Magazine<br/>
+  Tvisha Shah, Heki Dayo October 25, 2022<br/>
+  [I Hired a Virtual Assistant and It’s the Best Thing I’ve Done for My ADHD](https://www.additudemag.com/virtual-assistant-adhd-benefits/)
 
 ### GAN (General adversiaral networks)
 
@@ -125,6 +129,7 @@ Application<br/>
 
 YouTube: MegaTech Update<br/>
 [The rise of AI Companion](https://www.youtube.com/watch?v=xw2LVCWG9o0)
+
 
 ### Health care
 
