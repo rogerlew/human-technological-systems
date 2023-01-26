@@ -71,10 +71,22 @@ Frank Buschmann (2010). [Learning from Failure, Part 2: Featuritis, Performatis,
 
 [NN/g. 10 UX Research Cheat Sheet](https://www.nngroup.com/articles/ux-research-cheat-sheet/)
 
-
 *** Group Discussion ***
 Conceive a product and the UX/Usability tasks required to develop and bring the product to market.
 
+
+### Week 2 - Usability, User Experience
+
+**Materials:** 
+
+### AI
+
+### Virtual Assistants
+
+### Futurism/Utopian/Dystopian
+
+YouTube: Keiichi Matsuda<br/>
+[HYPER-REALITY](https://www.youtube.com/watch?v=YJg02ivYzSs)
 
 ## Themes
 
@@ -82,16 +94,9 @@ Conceive a product and the UX/Usability tasks required to develop and bring the 
   - Mental Health and Wellbeing
   - Soceital Health
   
-### Futurism/Utopian/Dystopian
-
-YouTube: Keiichi Matsuda<br/>
-[HYPER-REALITY](https://www.youtube.com/watch?v=YJg02ivYzSs)
 
 ## Topics
 
-### AI
-
-#### Virtual Assistants
 
 #### AI/Human teamed interaction as it relates to creative endeavors
 
