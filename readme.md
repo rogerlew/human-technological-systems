@@ -187,9 +187,6 @@ Evaluate a bad design. The design should be a product. It could be digital, phys
 
 (Looking for quality over quantity. Photos, diagrams, animations are welcome. The tone should be professional but doesn't necessarily need to be academic.)
 
-How are design, science, and engineering different? or the same? Are Design Thinking, First Principles Design, Design Science, Design Process, Engineering Design substantive concepts worthy of study or just Buzzwords. The goal of this week is to explore these topics and for you to articulate informed opinions about the topic and your approach as a designer/engineer/scientist/analyst/(blank).
-    
-
 ### Assignment 2 (due 3/10)
 
 **Read:** [Paul Graham - Hackers and Painters](http://www.paulgraham.com/hp.html)
