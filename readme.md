@@ -195,8 +195,9 @@ Evaluate a bad design. The design should be a product. It could be digital, phys
 ### Assignment 2 (due 3/10)
 
 **Read:** [Paul Graham - Hackers and Painters](http://www.paulgraham.com/hp.html)
-    
-Make a physical or virtual prototype of something that makes your life easier, faster, better, or more entertaining. Document what you made and what you would do differently. Bonus points for using and documenting a process or technique that is new to you.
+     
+Use ChatGPT and/or other GAN (GPT3, Bard, Dall-E2) to create or explore something. Produce a short presentation on the experience or the product that you made. Include some tips or description of your interaction (the method).
+
 
 ## Miniproject (Starting 3/20)
 
