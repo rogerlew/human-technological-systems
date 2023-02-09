@@ -192,11 +192,13 @@ Evaluate a bad design. The design should be a product. It could be digital, phys
 
 (Looking for quality over quantity. Photos, diagrams, animations are welcome. The tone should be professional but doesn't necessarily need to be academic.)
 
-### Assignment 2 (due 3/10)
+### Assignment 2 (due 3/9)
 
 **Read:** [Paul Graham - Hackers and Painters](http://www.paulgraham.com/hp.html)
      
-Use ChatGPT and/or other GAN (GPT3, Bard, Dall-E2) to create or explore something. Produce a short presentation on the experience or the product that you made. Include some tips or description of your interaction (the method).
+Use ChatGPT and/or other GAN (GPT3, Bard, Dall-E2) to create or explore something. Produce a short presentation on the experience or the product that you made. Include some tips or description of your interaction (the method). 
+
+Presentatations live in class.
 
 
 ## Miniproject (Starting 3/20)
