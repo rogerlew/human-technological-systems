@@ -75,7 +75,7 @@ Frank Buschmann (2010). [Learning from Failure, Part 2: Featuritis, Performatis,
 Conceive a product and the UX/Usability tasks required to develop and bring the product to market.
 
 
-### Week 2 - Usability, User Experience
+### Week 3 - Usability, User Experience
 
 **Materials:** 
 
@@ -94,6 +94,25 @@ YouTube: Keiichi Matsuda<br/>
   - Mental Health and Wellbeing
   - Soceital Health
   
+### Week 4 - Autonomous Vehicles (2/14 and 2/16)
+
+YouTube: Tesla AI Day 2022 
+
+[Full Self Driving Architecture](https://www.youtube.com/live/ODSJsviD_SU?t=58m)
+
+
+YouTube: Tony Seba
+
+[The Great Transformation- Disruption of Transporation](https://www.youtube.com/watch?v=Vqs0_3M-18c)
+
+
+[Tesla Vehicle Safety Report](https://www.tesla.com/VehicleSafetyReport)
+
+  - Tesla
+  - feasibility of autonomous vehicles
+    - legality, liability, trust
+  - emergent features of autonomous vehicles/robotaxis
+  - interaction with semi-autonmous and autonomous vehicles
 
 ## Topics
 
@@ -145,20 +164,6 @@ YouTube: MegaTech Update<br/>
   - Transfer training
   
 ### Innovative Disruption
-
-#### Autonomous Vehicles (2/14 and 2/16)
-
-[Tesla AI Day 2022 Full Self Driving Architecture](https://www.youtube.com/live/ODSJsviD_SU?t=58m)
-
-
-  - Tesla
-  - feasibility of autonomous vehicles
-    - legality, liability, trust
-  - emergent features of autonomous vehicles/robotaxis
-  - interaction with semi-autonmous and autonomous vehicles
-
-YouTube: Tony Seba<br/>
-[The Great Transformation- Disruption of Transporation](https://www.youtube.com/watch?v=Vqs0_3M-18c)
 
 #### Robots
 
