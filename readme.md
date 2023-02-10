@@ -97,7 +97,6 @@ YouTube: Keiichi Matsuda<br/>
 
 ## Topics
 
-
 #### AI/Human teamed interaction as it relates to creative endeavors
 
   - body doubling in meat space
@@ -147,7 +146,10 @@ YouTube: MegaTech Update<br/>
   
 ### Innovative Disruption
 
-#### Autonomous Vehicles
+#### Autonomous Vehicles (2/14 and 2/16)
+
+[Tesla AI Day 2022 Full Self Driving Architecture](https://www.youtube.com/live/ODSJsviD_SU?t=58m)
+
 
   - Tesla
   - feasibility of autonomous vehicles
