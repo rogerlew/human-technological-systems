@@ -101,6 +101,10 @@ YouTube: Tesla AI Day 2022
 [Full Self Driving Architecture](https://www.youtube.com/live/ODSJsviD_SU?t=58m)
 
 
+YouTube: Tesla AI Day 2021
+
+[Tesla Vision](https://www.youtube.com/watch?v=j0z4FweCy4M&t=3642s)
+
 YouTube: Tony Seba
 
 [The Great Transformation- Disruption of Transporation](https://www.youtube.com/watch?v=Vqs0_3M-18c)
