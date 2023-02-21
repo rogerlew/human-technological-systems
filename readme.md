@@ -122,6 +122,18 @@ YouTube: Tony Seba
 
 [7 A.I. Marketing Tools That Will BLOW YOUR MIND](https://www.youtube.com/watch?v=smyN7eFh6-Q)
 
+RESOURCES & LINKS: 
+____________________________________________
+CopyAI: https://www.copy.ai/
+Beautiful.ai: https://www.beautiful.ai/
+Profile Picture Maker: https://pfpmaker.com/
+Brandmark.io: https://brandmark.io/
+Oribi.io: https://oribi.io/
+Synthesia.io: https://www.synthesia.io/
+Unscreen.com: https://www.unscreen.com/
+____________________________________________
+
+
 [AI for Targeted Marketing](https://raw.githubusercontent.com/rogerlew/human-technological-systems/main/readings/1-s2.0-S2666603022000136-main.pdf)
 
 ## Topics
