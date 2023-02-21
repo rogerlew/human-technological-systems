@@ -120,7 +120,7 @@ YouTube: Tony Seba
 
 ### Week 5 - AI for Social Media and Targeted Marketing (2/21 and 2/23)
 
-[Marketing 101 Crash Course](https://www.youtube.com/watch?v=_o0qhAUNea8)
+[Marketing 101 Crash Course](https://youtu.be/_o0qhAUNea8?t=60)
 
 [7 A.I. Marketing Tools That Will BLOW YOUR MIND](https://www.youtube.com/watch?v=smyN7eFh6-Q)
 
