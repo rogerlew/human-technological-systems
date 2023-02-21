@@ -125,11 +125,17 @@ YouTube: Tony Seba
 RESOURCES & LINKS: 
 ____________________________________________
 CopyAI: https://www.copy.ai/
+
 Beautiful.ai: https://www.beautiful.ai/
+
 Profile Picture Maker: https://pfpmaker.com/
+
 Brandmark.io: https://brandmark.io/
+
 Oribi.io: https://oribi.io/
+
 Synthesia.io: https://www.synthesia.io/
+
 Unscreen.com: https://www.unscreen.com/
 ____________________________________________
 
