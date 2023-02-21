@@ -139,6 +139,7 @@ Synthesia.io: https://www.synthesia.io/
 Unscreen.com: https://www.unscreen.com/
 ____________________________________________
 
+[Sir Martin Sorrell: Why digital marketing transformation should be highly disruptive](https://www.youtube.com/watch?v=8JMednmkrJg)
 
 [AI for Targeted Marketing](https://raw.githubusercontent.com/rogerlew/human-technological-systems/main/readings/1-s2.0-S2666603022000136-main.pdf)
 
