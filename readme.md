@@ -118,7 +118,7 @@ YouTube: Tony Seba
   - emergent features of autonomous vehicles/robotaxis
   - interaction with semi-autonmous and autonomous vehicles
 
-### Week 5 - Autonomous Vehicles (2/21 and 2/23)
+### Week 5 - AI for Social Media and Targeted Marketing (2/21 and 2/23)
 
 
 [AI for Targeted Marketing](https://raw.githubusercontent.com/rogerlew/human-technological-systems/main/readings/1-s2.0-S2666603022000136-main.pdf)
