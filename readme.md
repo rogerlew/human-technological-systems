@@ -120,6 +120,7 @@ YouTube: Tony Seba
 
 ### Week 5 - AI for Social Media and Targeted Marketing (2/21 and 2/23)
 
+[7 A.I. Marketing Tools That Will BLOW YOUR MIND](https://www.youtube.com/watch?v=smyN7eFh6-Q)
 
 [AI for Targeted Marketing](https://raw.githubusercontent.com/rogerlew/human-technological-systems/main/readings/1-s2.0-S2666603022000136-main.pdf)
 
