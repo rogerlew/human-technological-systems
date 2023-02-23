@@ -145,6 +145,23 @@ ____________________________________________
 
 [AI for Targeted Marketing](https://raw.githubusercontent.com/rogerlew/human-technological-systems/main/readings/1-s2.0-S2666603022000136-main.pdf)
 
+### Week 6 - AI technologies for entertainment, music, and art (2/28 and 3/2)
+
+kanath, S. (2021). What Is Spotify's Discovery Mode and Why Is It Controversial?
+[Website](https://www.makeuseof.com/what-is-spotify-discovery-mode/)
+
+Robley, C. (2022).  The Spotify Algorithm: What Musicians Need to Know. DIY Musician.
+[Spotify Algorithm](https://diymusician.cdbaby.com/music-career/spotify-algorithm/)
+
+Cynthia Zhou. The End of Original Art? Current Issues with AI Art and Ethics
+[YouTube](https://www.youtube.com/watch?v=o09F6TViIGk)
+
+Raggio, E. (2022).  A ‘Robot’ Rapper Got a Major Label Deal and the Dallas Rap Scene Has Thoughts. Dallas Observer. 
+[Website](https://www.dallasobserver.com/music/whats-the-deal-with-the-ai-rapper-fn-meka-14630971)
+
+Unknown. TikTok Video Blog. [MOV](https://github.com/rogerlew/advanced-human-factors/raw/main/readings/music_perception/v12044gd0000cfcnvo3c77ufkbc4f040.mov)
+
+
 ## Topics
 
 #### AI/Human teamed interaction as it relates to creative endeavors
