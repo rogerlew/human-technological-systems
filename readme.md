@@ -162,6 +162,12 @@ Raggio, E. (2022).  A ‘Robot’ Rapper Got a Major Label Deal and the Dallas R
 Unknown. TikTok Video Blog. [MOV](https://github.com/rogerlew/advanced-human-factors/raw/main/readings/music_perception/v12044gd0000cfcnvo3c77ufkbc4f040.mov)
 
 
+### Week 7 - AI technologies for entertainment, music, and art (3/7 and 3/9)
+
+3/7 Freeform discussion on previous topics
+
+3/9 Assignment 2 presentation
+
 ## Topics
 
 #### AI/Human teamed interaction as it relates to creative endeavors
