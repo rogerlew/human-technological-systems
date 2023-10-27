@@ -2,15 +2,10 @@
 
 University of Idaho<br>
 3 Credits<br>
-Spring 2023<br>
+Spring 2024<br>
 CRN 77044<br>
-Jan 11, 2022  - May 12, 2022  	02:00 pm - 03:15 pm 	TR<br>
+Jan 10, 2024  - May 10, 2024  	02:00 pm - 03:15 pm 	TR<br>
 Virtual Meetings
-
-Zoom: ```https://uidaho.zoom.us/j/89888342797```
-
-Passcode: ```159292```
-
 
 ## Instructor
 
@@ -31,15 +26,47 @@ VTD is inherently interdisciplinary/transdisciplinary. We utilize knowledge and 
 -   Model, simulate, and iterate to optimize designs
 -   Develop, deploy, and validate virtual technologies
     
-Topics include introduction to human factors, human technological systems, usability evaluation, HCI in virtual reality, human error, human performance,  mixed-initiative systems (intelligent and autonomous teaming), design and prototyping.
+Topics include introduction to human factors, human technological systems, usability evaluation, HCI in virtual reality, human error, human performance, mixed-initiative systems (intelligent and autonomous teaming), design and prototyping.
 
 **Recommended Preparation:** Graduate student status (5xx) *or* undergraduate who has taken a VTD 300-Level production course and one VTD 400-Level history and theory course, or with instructor approval.
 
 This is an 16-week onine course to introduce Virtual Technology and Design students to human factors, human computer interaction design and evaluation, emphasizing mixed-initiative systems and virtual reality. The first 8-weeks are to develop the theory and during the last 8-weeks students lead and conduct individual projects related to the course content. 
 
+
+## About This Course
+
+- This is a seminar course. Active participation is required. The idea is to not only familiarize students with the topics but to get students to relate to the topics.
+
+- The first 4 weeks provide background regarding Human Factors/ Cognitive Psychology/ Sensation and Perception/ Usability & User Experience. The content and discussion is oriented towards designers, engineers, and technologists.
+  
+- After that we explore contemporary technology topics that the students find relevent and the instructor deems interesting. This could include: self-driving cars, human enhancement/post humanism, AI art, etc. The intent to get to an academic level of discussion supported by papers and other in-depth materials. We generally paln a few weeks ahead and bounce around from topic to topic.
+
+- The last 8 weeks is oriented towards a "MiniProject" where students develop a human technological system
+
+### Assignments/Projects
+
+#### 1. Product Evaluation
+
+Review a product/application. Describe the good/bad using human factors concepts. Describe how the design could be improved
+
+#### 2. AI Assisted Workflow Exploration
+
+Use an AI technology (e.g. ChatGPT) to make something. Present what you made and how you made it. Describe the strengths and weakness of the AI-teaming.
+
+#### 3. Miniproject - Conceptual Design of a Human Technological System (HTS)
+
+Conceive of a novel human technological system or a revision to a human technological system. Identify the use cases and addressable market. Create a virtual or physical design and specification. Develop and evaluate user stories for the technologial system. Create a "pinch" deck for the HTS and present to class.
+
+Previous concepts explored:
+
+- Sleeping pods
+- Smart parking meter system
+- Pharmeceutical XR education
+   
+
 ## Tentative Schedule
 
-### Week 0 - Introduction to the Course, Introduction to Human Factors
+### Week 0 - Introduction to the Course, Introduction to Human Factors Psychology
 
 Introductions
 
@@ -339,6 +366,10 @@ There might be times where you are asked to comment on other students work or ju
 ## Civility Clause
 
 In any environment in which people interact in meaningful ways to gain knowledge, it is essential that each member feel as free and safe as possible in their participation. To this end, it will be course policy and expected that everyone will be treated with mutual respect. We certainly do not have to agree, but everyone deserves to feel they are heard. We learn by engaging in constructive evidence‐based dialogue. Therefore we shall establish in this course a general understanding that members of this class (including students, instructors, professors, and teaching assistants) will be respected and respectful to one another in discussion, in action, in teaching, and in learning.
+
+## AI Clause
+
+Use of AI is permitted and perhaps even encouraged. However the users of AI are ultimately responsible for the work. So if you use AI do so responsibly and please disclose AI assisted content.
 
 ## Other Potentially Disruptive Classroom Behavior
 
