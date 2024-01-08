@@ -7,6 +7,10 @@ CRN 77044<br>
 Jan 10, 2024  - May 10, 2024  	02:00 pm - 03:15 pm 	TR<br>
 Virtual Meetings
 
+
+https://uidaho.zoom.us/j/88525120012
+passcode: 761955
+
 ## Instructor
 
 Roger Lew<br>
