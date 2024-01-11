@@ -105,6 +105,8 @@ Donald A. Norman (2013). [The Design of Everyday Things. Basic Books. Chapter 1.
 
 Frank Buschmann (2010). [Learning from Failure, Part 2: Featuritis, Performatis, and Other Diseases](https://github.com/rogerlew/human-technological-systems/blob/main/readings/buschmann2010_featuritis.pdf) 
 
+Bordens & Abbott. Research Methods. Chapter 1. Explaining Behavior. (2024). [PDF](https://github.com/rogerlew/human-technological-systems/blob/main/readings/ResearchDesignandMethods-AProcessApproach-1.pdf)
+
 ### Week 2 - Usability, User Experience
 
 **Materials:** 
