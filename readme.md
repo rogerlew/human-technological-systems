@@ -87,6 +87,8 @@ What is Human Factors?
 
 What is Science?
 
+[Research Design and Methods](file:///C:/Users/roger/Downloads/ResearchDesignandMethods-AProcessApproach-1-1.pdf)
+
 Potential Topic Identification
 
 ### Week 1 - Introduction to Human Factors
