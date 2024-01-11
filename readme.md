@@ -42,7 +42,7 @@ This is an 16-week onine course to introduce Virtual Technology and Design stude
 
 - This is a seminar course. Active participation is required. The idea is to not only familiarize students with the topics but to get students to relate to the topics.
 
-- The first 4 weeks provide background regarding Human Factors/ Cognitive Psychology/ Sensation and Perception/ Usability & User Experience. The content and discussion is oriented towards designers, engineers, and technologists.
+- The first weeks will cover AI (to support AI assisted learning) and provide background regarding Human Factors/ Cognitive Psychology/ Sensation and Perception/ Usability & User Experience. The content and discussion is oriented towards designers, engineers, and technologists.
   
 - After that we explore contemporary technology topics that the students find relevent and the instructor deems interesting. This could include: self-driving cars, human enhancement/post humanism, AI art, etc. The intent to get to an academic level of discussion supported by papers and other in-depth materials. We generally paln a few weeks ahead and bounce around from topic to topic.
 
@@ -50,13 +50,17 @@ This is an 16-week onine course to introduce Virtual Technology and Design stude
 
 ### Assignments/Projects
 
-#### 1. Product Evaluation
-
-Review a product/application. Describe the good/bad using human factors concepts. Describe how the design could be improved
-
-#### 2. AI Assisted Workflow Exploration
+#### 1. AI Assisted Workflow Exploration
 
 Use an AI technology (e.g. ChatGPT) to make something. Present what you made and how you made it. Describe the strengths and weakness of the AI-teaming.
+
+(Due February 29)
+
+#### 2. Product Evaluation
+
+Review a product/application. Describe the good/bad using human factors concepts. Describe how the design could be improved.
+
+(Due March 21)
 
 #### 3. Miniproject - Conceptual Design of a Human Technological System (HTS)
 
