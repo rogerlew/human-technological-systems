@@ -81,7 +81,13 @@ Introductions
 
 Course Description
 
-Topic Identification
+What is Virtual Technology and Design?
+
+What is Human Factors?
+
+What is Science?
+
+Potential Topic Identification
 
 ### Week 1 - Introduction to Human Factors
 
@@ -111,7 +117,9 @@ Frank Buschmann (2010). [Learning from Failure, Part 2: Featuritis, Performatis,
 Conceive a product and the UX/Usability tasks required to develop and bring the product to market.
 
 
-### Week 3 - Usability, User Experience
+### Week 3 - Human Error and Human Performance
+
+[Human Error Models and Managements](https://github.com/rogerlew/human-technological-systems/blob/main/readings/Reason2000.pdf)
 
 **Materials:** 
 
