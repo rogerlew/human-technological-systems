@@ -54,13 +54,13 @@ This is an 16-week onine course to introduce Virtual Technology and Design stude
 
 Review a product/application. Describe the good/bad using human factors concepts. Describe how the design could be improved.
 
-(Due March 21)
+Due March 21
 
 #### 2. AI Assisted Workflow Exploration
 
 Use an AI technology (e.g. ChatGPT) to make something. Present what you made and how you made it. Describe the strengths and weakness of the AI-teaming.
 
-(Due February 29)
+Due February 29
 
 #### 3. Miniproject - Conceptual Design of a Human Technological System (HTS)
 
