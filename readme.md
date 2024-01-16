@@ -107,6 +107,8 @@ Frank Buschmann (2010). [Learning from Failure, Part 2: Featuritis, Performatis,
 
 Bordens & Abbott. Research Methods. Chapter 1. Explaining Behavior. (2024). [PDF](https://github.com/rogerlew/human-technological-systems/blob/main/readings/ResearchDesignandMethods-AProcessApproach-1.pdf)
 
+Bill Gates Episode 6: Sam Altman https://www.youtube.com/watch?v=PkXELH6Y2lM
+
 ### Week 2 - Usability, User Experience
 
 **Materials:** 
