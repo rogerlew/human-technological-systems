@@ -131,6 +131,11 @@ Conceive a product and the UX/Usability tasks required to develop and bring the 
 
 ### AI
 
+### Spatial Computing
+
+Welch, P. D. (2016). Turing Transcendent: Beyond the Event Horizon. The Once and Future Turing, 335–360. doi:10.1017/cbo9780511863196.021
+
+
 ### Virtual Assistants
 
 ### Futurism/Utopian/Dystopian
