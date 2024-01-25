@@ -123,13 +123,14 @@ Bill Gates Episode 6: Sam Altman https://www.youtube.com/watch?v=PkXELH6Y2lM
 Conceive a product and the UX/Usability tasks required to develop and bring the product to market.
 
 
-### Week 3 - Human Error and Human Performance
-
-[Human Error Models and Managements](https://github.com/rogerlew/human-technological-systems/blob/main/readings/Reason2000.pdf)
+### Week 3 - AI
 
 **Materials:** 
 
 ### AI
+
+[Nielson Norman Group. AI: First New UI Paradigm in 60 Years](https://www.nngroup.com/articles/ai-paradigm/)
+
 
 ### Spatial Computing
 
@@ -149,29 +150,7 @@ YouTube: Keiichi Matsuda<br/>
   - Mental Health and Wellbeing
   - Soceital Health
   
-### Week 4 - Autonomous Vehicles (2/14 and 2/16)
-
-YouTube: Tesla AI Day 2022 
-
-[Full Self Driving Architecture](https://www.youtube.com/live/ODSJsviD_SU?t=58m)
-
-
-YouTube: Tesla AI Day 2021
-
-[Tesla Vision](https://www.youtube.com/watch?v=j0z4FweCy4M&t=3642s)
-
-YouTube: Tony Seba
-
-[The Great Transformation- Disruption of Transporation](https://www.youtube.com/watch?v=Vqs0_3M-18c)
-
-
-[Tesla Vehicle Safety Report](https://www.tesla.com/VehicleSafetyReport)
-
-  - Tesla
-  - feasibility of autonomous vehicles
-    - legality, liability, trust
-  - emergent features of autonomous vehicles/robotaxis
-  - interaction with semi-autonmous and autonomous vehicles
+### Week 4 - 
 
 ### Week 5 - AI for Social Media and Targeted Marketing (2/21 and 2/23)
 
