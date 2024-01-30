@@ -123,13 +123,14 @@ Bill Gates Episode 6: Sam Altman https://www.youtube.com/watch?v=PkXELH6Y2lM
 Conceive a product and the UX/Usability tasks required to develop and bring the product to market.
 
 
-### Week 3 - AI
+### Week 3 - AI 1/30 and 2/1
 
 **Materials:** 
 
 ### AI
 
 [Nielson Norman Group. AI: First New UI Paradigm in 60 Years](https://www.nngroup.com/articles/ai-paradigm/)
+
 
 
 ### Spatial Computing
