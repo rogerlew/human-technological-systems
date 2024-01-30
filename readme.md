@@ -131,8 +131,9 @@ Conceive a product and the UX/Usability tasks required to develop and bring the 
 
 [Nielson Norman Group. AI: First New UI Paradigm in 60 Years](https://www.nngroup.com/articles/ai-paradigm/)
 
-[Microsoft Research - Sparks of Life](https://arxiv.org/pdf/2303.12712.pdf)
+[Microsoft Research - Sparks of AGI](https://arxiv.org/pdf/2303.12712.pdf)
 
+[Youtube - Sparks of AGI](https://www.youtube.com/watch?v=Mqg3aTGNxZ0)
 
 ### Spatial Computing
 
