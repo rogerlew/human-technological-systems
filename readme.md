@@ -352,7 +352,13 @@ or could more graphical PDF/marketing styled document.
 Prepare a 8-10 minute presentation on your project during the timeslot for our Final.
 
 # Grading
-Assignments 50% (12.5% per assignment) Mini-project and presentation 50% (20% status reports, 20% project report, 10% presentation)
+
+Participation/Attendance     30%
+
+Assignments 30% (15% per assignment)
+
+Mini-project and presentation 40% (10% status reports, 20% project report, 10% presentation)
+
 
 # General Expectations and Information
 
