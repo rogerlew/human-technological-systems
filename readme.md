@@ -135,25 +135,17 @@ Conceive a product and the UX/Usability tasks required to develop and bring the 
 
 [Youtube - Sparks of AGI](https://www.youtube.com/watch?v=Mqg3aTGNxZ0)
 
+### Week 4 - 
+
 ### Spatial Computing
 
 Welch, P. D. (2016). Turing Transcendent: Beyond the Event Horizon. The Once and Future Turing, 335–360. doi:10.1017/cbo9780511863196.021
-
-
-### Virtual Assistants
 
 ### Futurism/Utopian/Dystopian
 
 YouTube: Keiichi Matsuda<br/>
 [HYPER-REALITY](https://www.youtube.com/watch?v=YJg02ivYzSs)
 
-## Themes
-
-  - Technology
-  - Mental Health and Wellbeing
-  - Soceital Health
-  
-### Week 4 - 
 
 ### Week 5 - AI for Social Media and Targeted Marketing (2/21 and 2/23)
 
