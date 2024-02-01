@@ -135,6 +135,8 @@ Conceive a product and the UX/Usability tasks required to develop and bring the 
 
 [Youtube - Sparks of AGI](https://www.youtube.com/watch?v=Mqg3aTGNxZ0)
 
+[Youtube - GPT-5: Everything You Need to Know So Far](https://www.youtube.com/watch?v=Zc03IYnnuIA)
+
 ### Week 4 - 
 
 ### Spatial Computing
