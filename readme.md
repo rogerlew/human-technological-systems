@@ -54,7 +54,10 @@ This is an 16-week onine course to introduce Virtual Technology and Design stude
 
 Review a product/application. Describe the good/bad using human factors concepts. Describe how the design could be improved.
 
-Due March 21
+Document up to 5 page
+Powerpoint 4-5 slides and 5 minute presentation.
+
+Due Thrusday, March 21, 2024 
 
 #### 2. AI Assisted Workflow Exploration
 
