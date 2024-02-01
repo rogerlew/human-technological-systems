@@ -54,6 +54,8 @@ This is an 16-week onine course to introduce Virtual Technology and Design stude
 
 Review a product/application. Describe the good/bad using human factors concepts. Describe how the design could be improved.
 
+Ideas to review: Smart Home Devices, Health and Fitness Apps, Mobile Payment Apps, Productivity Apps, Educational Technology, Augmented Reality Apps, Wearable Technology, Virtual Reality Platforms, Smart Assistants, Mobile Photography and Editing Apps, Environmental and Sustainability Apps, Language Learning Apps.
+
 Document up to 5 page
 Powerpoint 4-5 slides and 5 minute presentation.
 
