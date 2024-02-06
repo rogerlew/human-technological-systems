@@ -142,67 +142,33 @@ Conceive a product and the UX/Usability tasks required to develop and bring the 
 
 [Youtube - GPT-5: Everything You Need to Know So Far](https://www.youtube.com/watch?v=Zc03IYnnuIA)
 
-### Week 4 - 
-
-### Spatial Computing
+### Week 4 - Spatial Computing
 
 Welch, P. D. (2016). Turing Transcendent: Beyond the Event Horizon. The Once and Future Turing, 335–360. doi:10.1017/cbo9780511863196.021
-
-### Futurism/Utopian/Dystopian
 
 YouTube: Keiichi Matsuda<br/>
 [HYPER-REALITY](https://www.youtube.com/watch?v=YJg02ivYzSs)
 
 
-### Week 5 - AI for Social Media and Targeted Marketing (2/21 and 2/23)
+### Week 5 - XR Technology
 
-[Marketing 101 Crash Course](https://youtu.be/_o0qhAUNea8?t=60)
+Tracking
 
-[7 A.I. Marketing Tools That Will BLOW YOUR MIND](https://www.youtube.com/watch?v=smyN7eFh6-Q)
+Gesturing
 
-RESOURCES & LINKS: 
-____________________________________________
-CopyAI: https://www.copy.ai/
+Humanoid Robots
 
-Beautiful.ai: https://www.beautiful.ai/
+### Week 6 - Nanotechnology and Swarms
 
-Profile Picture Maker: https://pfpmaker.com/
+Medical Applications
 
-Brandmark.io: https://brandmark.io/
-
-Oribi.io: https://oribi.io/
-
-Synthesia.io: https://www.synthesia.io/
-
-Unscreen.com: https://www.unscreen.com/
-____________________________________________
-
-[Sir Martin Sorrell: Why digital marketing transformation should be highly disruptive](https://www.youtube.com/watch?v=8JMednmkrJg)
-
-[AI for Targeted Marketing](https://raw.githubusercontent.com/rogerlew/human-technological-systems/main/readings/1-s2.0-S2666603022000136-main.pdf)
-
-### Week 6 - AI technologies for entertainment, music, and art (2/28 and 3/2)
-
-kanath, S. (2021). What Is Spotify's Discovery Mode and Why Is It Controversial?
-[Website](https://www.makeuseof.com/what-is-spotify-discovery-mode/)
-
-Robley, C. (2022).  The Spotify Algorithm: What Musicians Need to Know. DIY Musician.
-[Spotify Algorithm](https://diymusician.cdbaby.com/music-career/spotify-algorithm/)
-
-Cynthia Zhou. The End of Original Art? Current Issues with AI Art and Ethics
-[YouTube](https://www.youtube.com/watch?v=o09F6TViIGk)
-
-Raggio, E. (2022).  A ‘Robot’ Rapper Got a Major Label Deal and the Dallas Rap Scene Has Thoughts. Dallas Observer. 
-[Website](https://www.dallasobserver.com/music/whats-the-deal-with-the-ai-rapper-fn-meka-14630971)
-
-Unknown. TikTok Video Blog. [MOV](https://github.com/rogerlew/advanced-human-factors/raw/main/readings/music_perception/v12044gd0000cfcnvo3c77ufkbc4f040.mov)
+Enhancement
 
 
-### Week 7 - AI technologies for entertainment, music, and art (3/7 and 3/9)
+### Week 7 - Neurolink and Brain Computer Interface
 
-3/7 Freeform discussion on previous topics
 
-3/9 Assignment 2 presentation
+
 
 ## Topics
 
