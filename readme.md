@@ -152,8 +152,20 @@ YouTube: Keiichi Matsuda<br/>
 YouTube: CaseyNeistat
 [the thing no one will say about Apple Vision Pro](https://www.youtube.com/watch?v=UvkgmyfMPks)
 
-Youtube: Marques Brownlee
+YouTube: Marques Brownlee
 [Using Apple Vision Pro: What It’s Actually Like!](https://www.youtube.com/watch?v=dtp6b76pMak)
+
+YouTube: Meta
+[Work in the metaverse](https://www.youtube.com/watch?v=uVEALvpoiMQ)
+
+YouTube: Meta
+[Work in the metaverse](https://www.youtube.com/watch?v=uVEALvpoiMQ)
+
+YouTube: Meta
+[The metaverse today](https://www.youtube.com/watch?v=D8GMeEZSfPQ)
+
+YouTube: ColdFusion
+[Why Apple is Quietly Buying AI Companies](https://www.youtube.com/watch?v=Uj9Jg4WldJg)
 
 ### Week 5 - XR Technology
 
