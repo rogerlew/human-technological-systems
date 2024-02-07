@@ -159,9 +159,6 @@ YouTube: Meta
 [Work in the metaverse](https://www.youtube.com/watch?v=uVEALvpoiMQ)
 
 YouTube: Meta
-[Work in the metaverse](https://www.youtube.com/watch?v=uVEALvpoiMQ)
-
-YouTube: Meta
 [The metaverse today](https://www.youtube.com/watch?v=D8GMeEZSfPQ)
 
 YouTube: ColdFusion
