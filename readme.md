@@ -149,6 +149,9 @@ Welch, P. D. (2016). Turing Transcendent: Beyond the Event Horizon. The Once and
 YouTube: Keiichi Matsuda<br/>
 [HYPER-REALITY](https://www.youtube.com/watch?v=YJg02ivYzSs)
 
+YouTube: CaseyNeistat
+[the thing no one will say about Apple Vision Pro](https://www.youtube.com/watch?v=UvkgmyfMPks)
+
 
 ### Week 5 - XR Technology
 
