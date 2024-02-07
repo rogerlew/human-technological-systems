@@ -149,19 +149,19 @@ Welch, P. D. (2016). Turing Transcendent: Beyond the Event Horizon. The Once and
 YouTube: Keiichi Matsuda<br/>
 [HYPER-REALITY](https://www.youtube.com/watch?v=YJg02ivYzSs)
 
-YouTube: CaseyNeistat
+YouTube: CaseyNeistat<br/>
 [the thing no one will say about Apple Vision Pro](https://www.youtube.com/watch?v=UvkgmyfMPks)
 
-YouTube: Marques Brownlee
+YouTube: Marques Brownlee<br/>
 [Using Apple Vision Pro: What It’s Actually Like!](https://www.youtube.com/watch?v=dtp6b76pMak)
 
-YouTube: Meta
+YouTube: Meta<br/>
 [Work in the metaverse](https://www.youtube.com/watch?v=uVEALvpoiMQ)
 
-YouTube: Meta
+YouTube: Meta<br/>
 [The metaverse today](https://www.youtube.com/watch?v=D8GMeEZSfPQ)
 
-YouTube: ColdFusion
+YouTube: ColdFusion<br/>
 [Why Apple is Quietly Buying AI Companies](https://www.youtube.com/watch?v=Uj9Jg4WldJg)
 
 ### Week 5 - XR Technology
