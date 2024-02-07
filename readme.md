@@ -152,6 +152,8 @@ YouTube: Keiichi Matsuda<br/>
 YouTube: CaseyNeistat
 [the thing no one will say about Apple Vision Pro](https://www.youtube.com/watch?v=UvkgmyfMPks)
 
+Youtube: Marques Brownlee
+[Using Apple Vision Pro: What It’s Actually Like!](https://www.youtube.com/watch?v=dtp6b76pMak)
 
 ### Week 5 - XR Technology
 
