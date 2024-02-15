@@ -263,13 +263,13 @@ YouTube: MegaTech Update<br/>
   
 # Assignments
 
-## Assignment 1 (due 2/3)
+## Assignment 1 (due 3/9)
 
 Evaluate a bad design. The design should be a product. It could be digital, physical, or both. Be sure to evaluate a product and not just a design choice or feature of the product. What is it? Why is it bad? What human factors or usability principles does it violate? (Please provide a citation for the principle, e.g. one of NN/g Usability Heuristics). How could it be improved? Please include a descriptive title.
 
 (Looking for quality over quantity. Photos, diagrams, animations are welcome. The tone should be professional but doesn't necessarily need to be academic.)
 
-### Assignment 2 (due 3/9)
+### Assignment 2
 
 **Read:** [Paul Graham - Hackers and Painters](http://www.paulgraham.com/hp.html)
      
