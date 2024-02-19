@@ -59,13 +59,12 @@ Ideas to review: Smart Home Devices, Health and Fitness Apps, Mobile Payment App
 Document up to 5 page
 Powerpoint 4-5 slides and 5 minute presentation.
 
-Due Thrusday, March 21, 2024 
+Due Thrusday, March 9, 2024 
 
 #### 2. AI Assisted Workflow Exploration
 
 Use an AI technology (e.g. ChatGPT) to make something. Present what you made and how you made it. Describe the strengths and weakness of the AI-teaming.
 
-Due February 29
 
 #### 3. Miniproject - Conceptual Design of a Human Technological System (HTS)
 
