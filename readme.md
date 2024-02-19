@@ -278,7 +278,7 @@ Use ChatGPT and/or other GAN (GPT3, Bard, Dall-E2) to create or explore somethin
 Presentatations live in class.
 
 
-## Miniproject (Starting 3/20)
+## Miniproject ()
 
 Students develop independent miniprojects related to human technological systems or human machine interfaces. Students will submit weekly status reports and meet with the instructor as needed. The miniprojects will culminate in a written report and a 8-10 minute oral.
     
@@ -297,10 +297,6 @@ Students develop independent miniprojects related to human technological systems
 #### Status Reports
     
 Document where you are at with your project. Status reports are due:    
-Thursday, March 24
-Thursday, March 31
-Thursday, April 14
-Thursday, April 28
 
 The Final report is due Monday, May 9 of Final's week.
 ### Week 9 – 10 Project Identification
