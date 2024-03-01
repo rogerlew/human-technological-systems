@@ -58,7 +58,7 @@ Ideas to review: Smart Home Devices, Health and Fitness Apps, Mobile Payment App
 
 Document up to 5 page and Powerpoint 4-5 slides and 5 minute presentation.
 
-Due Thrusday, March 9, 2024 
+Due March 9, 2024 
 
 #### 2. AI Assisted Workflow Exploration
 
@@ -258,39 +258,7 @@ YouTube: MegaTech Update<br/>
   - energy
   - information
   - culminiation of BCI/mobile devices/mesh network protocols
-  
-# Assignments
 
-## Assignment 1 (due 3/9)
-
-Evaluate a bad design. The design should be a product. It could be digital, physical, or both. Be sure to evaluate a product and not just a design choice or feature of the product. What is it? Why is it bad? What human factors or usability principles does it violate? (Please provide a citation for the principle, e.g. one of NN/g Usability Heuristics). How could it be improved? Please include a descriptive title.
-
-(Looking for quality over quantity. Photos, diagrams, animations are welcome. The tone should be professional but doesn't necessarily need to be academic.)
-
-### Assignment 2
-
-**Read:** [Paul Graham - Hackers and Painters](http://www.paulgraham.com/hp.html)
-     
-Use ChatGPT and/or other GAN (GPT3, Bard, Dall-E2) to create or explore something. Produce a short presentation on the experience or the product that you made. Include some tips or description of your interaction (the method). 
-
-Presentatations live in class.
-
-
-## Miniproject ()
-
-Students develop independent miniprojects related to human technological systems or human machine interfaces. Students will submit weekly status reports and meet with the instructor as needed. The miniprojects will culminate in a written report and a 8-10 minute oral.
-    
-    
-  - The topic and the employed methods are largely up-to-you (I will provide feedback along the way).
-  - The goal is to learn through experience and document the process
-  - example topics
-    - conceptual exploration of a future with humanoid robots with strong AI
-    - prototyping of a novel interaction for Virtual Reality
-    - Development of an AR application
-    - prototype of an automation technology
-  - Write short progress reports to tell me about your project
-  - Hang-out sessions Tuesdays and Thursdays to talk one-on-one or as a group about your project. (Or just hangout and/or work.)
-  - Short final presentation during finals week
     
 #### Status Reports
     
