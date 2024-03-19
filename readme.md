@@ -62,10 +62,15 @@ Due March 9, 2024
 
 #### 2. AI Assisted Workflow Exploration
 
-Use an AI technology (e.g. ChatGPT) to make something. Present what you made and how you made it. Describe the strengths and weakness of the AI-teaming.
+Use an AI technology (e.g. ChatGPT, generative AI,) to make something. Present what you made and how you made it. Describe the strengths and weakness of the AI-teaming.
 
+Focus on the process not the product.
 
-#### 3. Miniproject - Conceptual Design of a Human Technological System (HTS)
+Powerpoint 4-5 slides with 5-minute presentation.
+
+Due April 11, 2024 
+
+#### 3. Conceptual Design of a Human Technological System (HTS)
 
 Conceive of a novel human technological system or a revision to a human technological system. Identify the use cases and addressable market. Create a virtual or physical design and specification. Develop and evaluate user stories for the technologial system. Create a "pinch" deck for the HTS and present to class.
 
