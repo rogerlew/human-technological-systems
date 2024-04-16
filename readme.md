@@ -70,16 +70,33 @@ Powerpoint 4-5 slides with 5-minute presentation.
 
 Due April 11, 2024 
 
-#### 3. Conceptual Design of a Human Technological System (HTS)
+#### 3. Human Technical Systems Artifact
 
-Conceive of a novel human technological system or a revision to a human technological system. Identify the use cases and addressable market. Create a virtual or physical design and specification. Develop and evaluate user stories for the technologial system. Create a "pinch" deck for the HTS and present to class.
+Reflect on topics and ideas covered throughout the course. Select an idea and create an artifact that illustrates the concept or a point of view regearding the topic.
 
-Previous concepts explored:
+***Artifact** _noun_  an object made by a human being, typically an item of cultural or historical interest.   
 
-- Sleeping pods
-- Smart parking meter system
-- Pharmeceutical XR education
-   
+Potential artifacts
+
+ - an infographic
+ - a poem
+ - a flyer
+ - a powerpoint presentation
+ - a video
+ - a short essay
+ - a comic
+
+**Objectives of Assigment**
+
+- Review course material
+- organize and synthesize ideas on a topic or idea
+- create a deliverable that illustrates the concept or thoughts around the topic
+- potential something for the portfolio
+- something to talk about for future jobs/interviews/friends/family/etc.
+- educate and entertain
+
+Due Tuesday April 30, 2024 (deadweek) Last day of class.
+
 
 ## Tentative Schedule
 
@@ -264,41 +281,6 @@ YouTube: MegaTech Update<br/>
   - information
   - culminiation of BCI/mobile devices/mesh network protocols
 
-    
-#### Status Reports
-    
-Document where you are at with your project. Status reports are due:    
-
-The Final report is due Monday, May 9 of Final's week.
-### Week 9 – 10 Project Identification
-
-Identify a problem space and the goal or intent of your mini project. Conduct and summarize research to describe the problem space, prior art (alternatives, similiar products) and how your project fits in.
-
-### Week 11 Mini project Method
-
-Create a plan for carrying out your project. What tools or techniques will you use? Do you have experience with those tools and techniques? What challenges might you face, how will you mitigate those challenges?
-
-### Week 12 – 14 Production
-
-Carryout your project while documenting your findings along the way
-
-### Week 15 – 16 Analysis and Dissemination
-
-Organize your findings and document them in a written report. The report should describe the following: 
-    
-- Introduction
-    - the problem, alternative solutions, your goals
-- Method
-    - what are you doing to examine the problem or prototype a solution
-- Analysis/assessment
-    - how successful was your approach/process/work. Could include user testing or not. 
-      Could just be a self-assessment of how the project went
-- Conclusions and discussion
-    
-Pictures would be nice. Probably should be 5-10 pages. Could be in a manuscript format (e.g. APA Style) 
-or could more graphical PDF/marketing styled document.
-    
-Prepare a 8-10 minute presentation on your project during the timeslot for our Final.
 
 # Grading
 
