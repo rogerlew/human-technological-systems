@@ -70,7 +70,7 @@ Powerpoint 4-5 slides with 5-minute presentation.
 
 Due April 11, 2024 
 
-#### 3. Human Technical Systems Artifact
+#### 3. Human Technological Systems Artifact
 
 Reflect on topics and ideas covered throughout the course. Select an idea and create an artifact that illustrates the concept or a point of view regearding the topic.
 
@@ -93,7 +93,7 @@ Potential artifacts
 - Review course material
 - organize and synthesize ideas on a topic or idea
 - create a deliverable that illustrates the concept or thoughts around the topic
-- potential something for the portfolio
+- potentially something for your portfolio
 - something to talk about for future jobs/interviews/friends/family/etc.
 - educate and entertain
 
