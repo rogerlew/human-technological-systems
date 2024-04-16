@@ -74,7 +74,7 @@ Due April 11, 2024
 
 Reflect on topics and ideas covered throughout the course. Select an idea and create an artifact that illustrates the concept or a point of view regearding the topic.
 
-***Artifact** _noun_  an object made by a human being, typically an item of cultural or historical interest.   
+**Artifact** _noun_  an object made by a human being, typically an item of cultural or historical interest.   
 
 Potential artifacts
 
@@ -85,6 +85,8 @@ Potential artifacts
  - a video
  - a short essay
  - a comic
+ - a website
+ - performance art
 
 **Objectives of Assigment**
 
@@ -95,7 +97,10 @@ Potential artifacts
 - something to talk about for future jobs/interviews/friends/family/etc.
 - educate and entertain
 
-Due Tuesday April 30, 2024 (deadweek) Last day of class.
+
+Due Tuesday April 30, 2024 (deadweek) Last day of class. 
+- [ ] Show and tell in class
+- [ ] canvas upload artifact.
 
 
 ## Tentative Schedule
