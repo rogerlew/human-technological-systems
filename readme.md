@@ -2,9 +2,9 @@
 
 University of Idaho<br>
 3 Credits<br>
-Spring 2024<br>
+Spring 2025<br>
 CRN 77044<br>
-Jan 10, 2024  - May 10, 2024  	02:00 pm - 03:15 pm 	TR<br>
+Jan 8, 2024  - May 7, 2024  	02:00 pm - 03:15 pm 	TR<br>
 Virtual Meetings
 
 
