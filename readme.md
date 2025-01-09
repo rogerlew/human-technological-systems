@@ -4,13 +4,10 @@ University of Idaho<br>
 3 Credits<br>
 Spring 2025<br>
 CRN 77044<br>
-Jan 8, 2024  - May 7, 2024  	02:00 pm - 03:15 pm 	TR<br>
+Jan 8, 2025  - May 7, 2025  	02:00 pm - 03:15 pm 	TR<br>
 Virtual Meetings
 
-
-https://uidaho.zoom.us/j/88525120012
-
-passcode: 761955
+https://uidaho.zoom.us/j/81182832936
 
 ## Instructor
 
@@ -42,7 +39,7 @@ This is an 16-week onine course to introduce Virtual Technology and Design stude
 
 - This is a seminar course. Active participation is required. The idea is to not only familiarize students with the topics but to get students to relate to the topics.
 
-- The first weeks will cover AI (to support AI assisted learning) and provide background regarding Human Factors/ Cognitive Psychology/ Sensation and Perception/ Usability & User Experience. The content and discussion is oriented towards designers, engineers, and technologists.
+- The first weeks provide background regarding Human Factors/ Cognitive Psychology/ Sensation and Perception/ Usability & User Experience. The content and discussion is oriented towards designers, engineers, and technologists.
   
 - After that we explore contemporary technology topics that the students find relevent and the instructor deems interesting. This could include: self-driving cars, human enhancement/post humanism, AI art, etc. The intent to get to an academic level of discussion supported by papers and other in-depth materials. We generally paln a few weeks ahead and bounce around from topic to topic.
 
@@ -58,7 +55,7 @@ Ideas to review: Smart Home Devices, Health and Fitness Apps, Mobile Payment App
 
 Document up to 5 page and Powerpoint 4-5 slides and 5 minute presentation.
 
-Due March 9, 2024 
+Due March 8, 2024 
 
 #### 2. AI Assisted Workflow Exploration
 
@@ -68,7 +65,7 @@ Focus on the process not the product.
 
 Powerpoint 4-5 slides with 5-minute presentation.
 
-Due April 11, 2024 
+Due April 10, 2024 
 
 #### 3. Human Technological Systems Artifact
 
@@ -98,7 +95,7 @@ Potential artifacts
 - educate and entertain
 
 
-Due Tuesday April 30, 2024 (deadweek) Last day of class. 
+Due Thursday May 1, 2024 (deadweek) Last day of class. 
 - [ ] Show and tell in class
 - [ ] canvas upload artifact.
 
@@ -115,7 +112,7 @@ What is Virtual Technology and Design?
 
 What is Human Factors?
 
-What is Science?
+What is Science? (Philosophy of Science)
 
 [Research Design and Methods](file:///C:/Users/roger/Downloads/ResearchDesignandMethods-AProcessApproach-1-1.pdf)
 
@@ -153,7 +150,7 @@ Bill Gates Episode 6: Sam Altman https://www.youtube.com/watch?v=PkXELH6Y2lM
 Conceive a product and the UX/Usability tasks required to develop and bring the product to market.
 
 
-### Week 3 - AI 1/30 and 2/1
+### Week 3 - AI
 
 **Materials:** 
 
