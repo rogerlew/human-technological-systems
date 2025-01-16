@@ -5,9 +5,9 @@ University of Idaho<br>
 Spring 2025<br>
 CRN 77044<br>
 Jan 8, 2025  - May 7, 2025  	02:00 pm - 03:15 pm 	TR<br>
-Virtual Meetings
 
-https://uidaho.zoom.us/j/81182832936
+
+Meeting Location AAN 115
 
 ## Instructor
 
