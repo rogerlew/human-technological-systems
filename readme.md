@@ -114,7 +114,7 @@ What is Human Factors?
 
 What is Science? (Philosophy of Science)
 
-[Research Design and Methods](file:///C:/Users/roger/Downloads/ResearchDesignandMethods-AProcessApproach-1-1.pdf)
+[Research Design and Methods](https://github.com/rogerlew/human-technological-systems/blob/Spring2025/readings/ResearchDesignandMethods-AProcessApproach-1-1.pdf)
 
 Potential Topic Identification
 
@@ -128,7 +128,9 @@ Principles of human factors
 YouTube: CASABriefing
 [History of human factors](https://www.youtube.com/watch?v=5r1aFRiqLCI)
 
-Donald A. Norman (2013). [The Design of Everyday Things. Basic Books. Chapter 1. The PsychoPathology of Everyday Things.](https://github.com/rogerlew/human-technological-systems/raw/main/readings/NormanD_DesignOfEverydayThings_Chapter1.pdf)
+Donald A. Norman (2013). [The Design of Everyday Things. Basic Books. Chapter 1. The PsychoPathology of Everyday Things.](https://github.com/rogerlew/human-technological-systems/blob/Spring2025/readings/NormanD_DesignOfEverydayThings_Chapter1.pdf)
+
+
 
 Frank Buschmann (2010). [Learning from Failure, Part 2: Featuritis, Performatis, and Other Diseases](https://github.com/rogerlew/human-technological-systems/blob/main/readings/buschmann2010_featuritis.pdf) 
 
