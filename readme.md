@@ -148,8 +148,9 @@ Bill Gates Episode 6: Sam Altman https://www.youtube.com/watch?v=PkXELH6Y2lM
 
 [NN/g. 10 UX Research Cheat Sheet](https://www.nngroup.com/articles/ux-research-cheat-sheet/)
 
-*** Group Discussion ***
-Conceive a product and the UX/Usability tasks required to develop and bring the product to market.
+[GoDaddy: Web Accessibility Guidelines in About 7 Minutes](https://www.youtube.com/watch?v=68h6bq1aYZo)
+
+[Universal Design](https://universaldesign.ie/about-universal-design)
 
 
 ### Week 3 - AI
