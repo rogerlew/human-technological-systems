@@ -55,7 +55,7 @@ Ideas to review: Smart Home Devices, Health and Fitness Apps, Mobile Payment App
 
 Document up to 5 page and Powerpoint 4-5 slides and 5 minute presentation.
 
-Due March 8, 2024 
+Due Thursday, March 6, 2024 (Presentation in class, Submit document to canvas)
 
 #### 2. AI Assisted Workflow Exploration
 
