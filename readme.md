@@ -153,7 +153,11 @@ Bill Gates Episode 6: Sam Altman https://www.youtube.com/watch?v=PkXELH6Y2lM
 [Universal Design](https://universaldesign.ie/about-universal-design)
 
 
-### Week 3 - AI
+### Robots
+
+[Robots](robots.md)
+
+
 
 **Materials:** 
 
