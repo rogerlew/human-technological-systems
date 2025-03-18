@@ -55,7 +55,7 @@ Ideas to review: Smart Home Devices, Health and Fitness Apps, Mobile Payment App
 
 Document up to 5 page and Powerpoint 4-5 slides and 5 minute presentation.
 
-Due Thursday, March 6, 2024 (Presentation in class, Submit document to canvas)
+Due Thursday, March 6, 2025 (Presentation in class, Submit document to canvas)
 
 #### 2. AI Assisted Workflow Exploration
 
@@ -95,7 +95,7 @@ Potential artifacts
 - educate and entertain
 
 
-Due Thursday May 1, 2024 (deadweek) Last day of class. 
+Due Thursday May 1, 2025 (deadweek) Last day of class. 
 - [ ] Show and tell in class
 - [ ] canvas upload artifact.
 
