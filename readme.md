@@ -6,13 +6,11 @@ Spring 2026
 
 - **CRN:** 42918
 - **Meeting:** Tuesdays & Thursdays, 2:00 - 3:15 PM
-- **Dates:** Jan 15, 2026 - May 7, 2026
+- **Dates:** Jan 15, 2026 - March 7, 2026
 - **Location:** AAN 115 (In-person only)
 - **Instructor:** Roger Lew
 - **Contact:** rogerlew@uidaho.edu, 208-660-4525 (business hours)
 - **Office Hours:** By appointment
-
-No class March 17 & 19, 2026 (Spring Recess)
 
 ---
 
@@ -31,7 +29,7 @@ Topics include introduction to human factors, human technological systems, usabi
 
 **Recommended Preparation:** Graduate student status (5xx) *or* undergraduate who has taken a VTD 300-Level production course and one VTD 400-Level history and theory course, or with instructor approval.
 
-This is a 16-week in-person course to introduce Virtual Technology and Design students to human factors, human computer interaction design and evaluation, emphasizing mixed-initiative systems and virtual reality. The first 8-weeks are to develop the theory and during the last 8-weeks students lead and conduct individual projects related to the course content. 
+This is an 8-week in-person course to introduce Virtual Technology and Design students to human factors, human computer interaction design and evaluation, emphasizing mixed-initiative systems and virtual reality. 
 
 
 ## About This Course
@@ -41,8 +39,6 @@ This is a 16-week in-person course to introduce Virtual Technology and Design st
 - The first weeks provide background regarding Human Factors/ Cognitive Psychology/ Sensation and Perception/ Usability & User Experience. The content and discussion is oriented towards designers, engineers, and technologists.
   
 - After that we explore contemporary technology topics that the students find relevant and the instructor deems interesting. This could include: self-driving cars, human enhancement/posthumanism, AI art, etc. The intent is to get to an academic level of discussion supported by papers and other in-depth materials. We generally plan a few weeks ahead and bounce around from topic to topic.
-
-- The last 8 weeks are oriented towards a "Mini-Project" where students develop a human technological system.
 
 ### Assignments/Projects
 
@@ -65,45 +61,6 @@ Topics could include: AI ethics, social media effects, screen time, autonomous v
 Focus on making a clear argument supported by evidence and human factors principles.
 
 Due Tuesday, March 3 & Thursday, March 5, 2026 (Lightning talks in class)
-
-#### 3. AI Assisted Workflow Exploration
-
-Use an AI technology (e.g., ChatGPT, generative AI) to make something. Present what you made and how you made it. Describe the strengths and weaknesses of AI-teaming.
-
-Focus on the process, not the product.
-
-PowerPoint 4-5 slides with 5-minute presentation.
-
-Due Thursday, April 16, 2026
-
-#### 4. Human Technological Systems Artifact
-
-Reflect on topics and ideas covered throughout the course. Select an idea and create an artifact that illustrates the concept or a point of view regarding the topic.
-
-**Artifact** _noun_  an object made by a human being, typically an item of cultural or historical interest.   
-
-Potential artifacts:
-- Infographic
-- Poem
-- Flyer
-- PowerPoint presentation
-- Video
-- Short essay
-- Comic
-- Website
-- Performance art
-
-**Objectives:**
-- Review course material
-- Organize and synthesize ideas on a topic
-- Create a deliverable that illustrates the concept or your thoughts on the topic
-- Build something for your portfolio
-- Have something to discuss in future jobs/interviews
-
-Due Thursday, April 30, 2026 (Dead Week, last day of class)
-- Show and tell in class
-- Upload artifact to Canvas
-
 
 ## Tentative Schedule
 
@@ -210,13 +167,9 @@ Bill Gates Episode 6: Sam Altman https://www.youtube.com/watch?v=PkXELH6Y2lM
 
 | Component | Weight |
 |-----------|--------|
-| Participation/Attendance | 30% |
-| Product Evaluation | 10% |
-| Technology Op-Ed Lightning Talk | 10% |
-| AI Assisted Workflow | 10% |
-| Mini-Project Status Reports | 10% |
-| Mini-Project Report | 20% |
-| Mini-Project Presentation | 10% |
+| Participation/Attendance | 50% |
+| Product Evaluation | 25% |
+| Technology Op-Ed Lightning Talk | 25% |
 | **Total** | **100%** |
 
 **Grading Scale:** A = 90-100%, B = 80-89%, C = 70-79%, D = 60-69%, F = <60%
