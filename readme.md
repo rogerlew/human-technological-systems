@@ -204,14 +204,14 @@ Bill Gates Episode 6: Sam Altman https://www.youtube.com/watch?v=PkXELH6Y2lM
 
 ## Grading
 
-| Component | Weight |
-|-----------|--------|
-| Participation/Attendance | 40% |
-| 1. Product Evaluation | 15% |
-| 2. Technology Op-Ed Lightning Talk | 15% |
-| 3. AI Assisted Workflow | 15% |
-| 4. Human Technological Systems Artifact | 15% |
-| **Total** | **100%** |
+| Component | Weight | Due Date |
+|-----------|--------|----------|
+| Participation/Attendance | 40% | Ongoing |
+| 1. Product Evaluation | 15% | Feb 19 |
+| 2. Technology Op-Ed Lightning Talk | 15% | March 3 & 5 |
+| 3. AI Assisted Workflow | 15% | April 16 |
+| 4. Human Technological Systems Artifact | 15% | March 7 |
+| **Total** | **100%** | |
 
 **Grading Scale:** A = 90-100%, B = 80-89%, C = 70-79%, D = 60-69%, F = <60%
 
