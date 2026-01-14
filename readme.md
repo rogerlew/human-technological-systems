@@ -100,9 +100,7 @@ Potential artifacts:
 - Build something for your portfolio
 - Have something to discuss in future jobs/interviews
 
-Due Thursday, April 30, 2026 (Dead Week, last day of class)
-- Show and tell in class
-- Upload artifact to Canvas
+Due Saturday, March 7, 2026 (Submit to Canvas)
 
 ## Tentative Schedule
 
