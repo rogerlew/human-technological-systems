@@ -40,9 +40,9 @@ This is a 16-week in-person course to introduce Virtual Technology and Design st
 
 - The first weeks provide background regarding Human Factors/ Cognitive Psychology/ Sensation and Perception/ Usability & User Experience. The content and discussion is oriented towards designers, engineers, and technologists.
   
-- After that we explore contemporary technology topics that the students find relevent and the instructor deems interesting. This could include: self-driving cars, human enhancement/post humanism, AI art, etc. The intent to get to an academic level of discussion supported by papers and other in-depth materials. We generally paln a few weeks ahead and bounce around from topic to topic.
+- After that we explore contemporary technology topics that the students find relevant and the instructor deems interesting. This could include: self-driving cars, human enhancement/posthumanism, AI art, etc. The intent is to get to an academic level of discussion supported by papers and other in-depth materials. We generally plan a few weeks ahead and bounce around from topic to topic.
 
-- The last 8 weeks is oriented towards a "MiniProject" where students develop a human technological system
+- The last 8 weeks are oriented towards a "Mini-Project" where students develop a human technological system.
 
 ### Assignments/Projects
 
@@ -68,45 +68,41 @@ Due Tuesday, March 3 & Thursday, March 5, 2026 (Lightning talks in class)
 
 #### 3. AI Assisted Workflow Exploration
 
-Use an AI technology (e.g. ChatGPT, generative AI,) to make something. Present what you made and how you made it. Describe the strengths and weakness of the AI-teaming.
+Use an AI technology (e.g., ChatGPT, generative AI) to make something. Present what you made and how you made it. Describe the strengths and weaknesses of AI-teaming.
 
-Focus on the process not the product.
+Focus on the process, not the product.
 
-Powerpoint 4-5 slides with 5-minute presentation.
+PowerPoint 4-5 slides with 5-minute presentation.
 
 Due Thursday, April 16, 2026
 
 #### 4. Human Technological Systems Artifact
 
-Reflect on topics and ideas covered throughout the course. Select an idea and create an artifact that illustrates the concept or a point of view regearding the topic.
+Reflect on topics and ideas covered throughout the course. Select an idea and create an artifact that illustrates the concept or a point of view regarding the topic.
 
 **Artifact** _noun_  an object made by a human being, typically an item of cultural or historical interest.   
 
-Potential artifacts
+Potential artifacts:
+- Infographic
+- Poem
+- Flyer
+- PowerPoint presentation
+- Video
+- Short essay
+- Comic
+- Website
+- Performance art
 
- - an infographic
- - a poem
- - a flyer
- - a powerpoint presentation
- - a video
- - a short essay
- - a comic
- - a website
- - performance art
-
-**Objectives of Assigment**
-
+**Objectives:**
 - Review course material
-- organize and synthesize ideas on a topic or idea
-- create a deliverable that illustrates the concept or thoughts around the topic
-- potentially something for your portfolio
-- something to talk about for future jobs/interviews/friends/family/etc.
-- educate and entertain
+- Organize and synthesize ideas on a topic
+- Create a deliverable that illustrates the concept or your thoughts on the topic
+- Build something for your portfolio
+- Have something to discuss in future jobs/interviews
 
-
-Due Thursday, April 30, 2026 (Dead Week) Last day of class. 
-- [ ] Show and tell in class
-- [ ] canvas upload artifact.
+Due Thursday, April 30, 2026 (Dead Week, last day of class)
+- Show and tell in class
+- Upload artifact to Canvas
 
 
 ## Tentative Schedule
