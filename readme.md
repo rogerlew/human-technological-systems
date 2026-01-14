@@ -118,7 +118,7 @@ What is Science? (Philosophy of Science)
 
 Potential Topic Identification
 
-### Week 1 - Introduction to Human Factors
+### Week 1,2 - Introduction to Human Factors
 
 What is human factors?
 Principles of human factors
@@ -138,7 +138,7 @@ Bordens & Abbott. Research Methods. Chapter 1. Explaining Behavior. (2024). [PDF
 
 Bill Gates Episode 6: Sam Altman https://www.youtube.com/watch?v=PkXELH6Y2lM
 
-### Week 2 - Usability, User Experience
+### Week 3,4 - Usability, User Experience
 
 **Materials:** 
 
@@ -153,121 +153,50 @@ Bill Gates Episode 6: Sam Altman https://www.youtube.com/watch?v=PkXELH6Y2lM
 [Universal Design](https://universaldesign.ie/about-universal-design)
 
 
-**Materials:** 
+---
 
-### AI
+## Potential Topics for Discussion
 
-[Nielson Norman Group. AI: First New UI Paradigm in 60 Years](https://www.nngroup.com/articles/ai-paradigm/)
+*After the first 4 weeks of directed content, the class transitions to student-driven topical explorations of contemporary technologies. The following are potential discussion topics—students are encouraged to propose additional topics of interest.*
 
-[Microsoft Research - Sparks of AGI](https://arxiv.org/pdf/2303.12712.pdf)
+### Artificial Intelligence
 
-[Youtube - Sparks of AGI](https://www.youtube.com/watch?v=Mqg3aTGNxZ0)
+- **AI as UI Paradigm** - [NN/g: AI: First New UI Paradigm in 60 Years](https://www.nngroup.com/articles/ai-paradigm/)
+- **Large Language Models** - [Microsoft Research: Sparks of AGI](https://arxiv.org/pdf/2303.12712.pdf)
+- **Generative AI** - [Cold Fusion: It's Time to Pay Attention to A.I.](https://www.youtube.com/watch?v=0uQqMxXoNVs)
+- **AI Companions** - [The rise of AI Companion](https://www.youtube.com/watch?v=xw2LVCWG9o0)
+- **AI/Human teaming** - body doubling, accessibility accommodations for neurodivergence
 
-[Youtube - GPT-5: Everything You Need to Know So Far](https://www.youtube.com/watch?v=Zc03IYnnuIA)
+### Spatial Computing & XR
 
-### Week 4 - Spatial Computing
+- **Mixed Reality** - [HYPER-REALITY](https://www.youtube.com/watch?v=YJg02ivYzSs)
+- **Apple Vision Pro** - [Casey Neistat](https://www.youtube.com/watch?v=UvkgmyfMPks), [MKBHD](https://www.youtube.com/watch?v=dtp6b76pMak)
+- **Metaverse** - [Work in the metaverse](https://www.youtube.com/watch?v=uVEALvpoiMQ)
+- **VR/AR applications** - environmental accommodations, transfer training
+- **Tracking and gesturing technologies**
 
-Welch, P. D. (2016). Turing Transcendent: Beyond the Event Horizon. The Once and Future Turing, 335–360. doi:10.1017/cbo9780511863196.021
+### Robotics & Automation
 
-YouTube: Keiichi Matsuda<br/>
-[HYPER-REALITY](https://www.youtube.com/watch?v=YJg02ivYzSs)
+- Humanoid robots
+- Empathetic robots and AI
+- Hospitality applications (hotels, airports)
+- Autonomous systems displacing human labor
 
-YouTube: CaseyNeistat<br/>
-[the thing no one will say about Apple Vision Pro](https://www.youtube.com/watch?v=UvkgmyfMPks)
-
-YouTube: Marques Brownlee<br/>
-[Using Apple Vision Pro: What It’s Actually Like!](https://www.youtube.com/watch?v=dtp6b76pMak)
-
-YouTube: Meta<br/>
-[Work in the metaverse](https://www.youtube.com/watch?v=uVEALvpoiMQ)
-
-YouTube: Meta<br/>
-[The metaverse today](https://www.youtube.com/watch?v=D8GMeEZSfPQ)
-
-YouTube: ColdFusion<br/>
-[Why Apple is Quietly Buying AI Companies](https://www.youtube.com/watch?v=Uj9Jg4WldJg)
-
-### Week 5 - XR Technology
-
-Tracking
-
-Gesturing
-
-Humanoid Robots
-
-### Week 6 - Nanotechnology and Swarms
-
-Medical Applications
-
-Enhancement
-
-
-### Week 7 - Neurolink and Brain Computer Interface
-
-
-
-
-## Topics
-
-#### AI/Human teamed interaction as it relates to creative endeavors
-
-  - body doubling in meat space
-  - body doubling in virtual space
-  - accessibility accomodations for neurodivergence
-  
-  Attitude Magazine<br/>
-  Tvisha Shah, Heki Dayo October 25, 2022<br/>
-  [I Hired a Virtual Assistant and It’s the Best Thing I’ve Done for My ADHD](https://www.additudemag.com/virtual-assistant-adhd-benefits/)
-
-### Generative AI
-
-YouTube: Cold Fusion<br/>
-[It's Time to Pay Attention to A.I. (ChatGPT and Beyond)](https://www.youtube.com/watch?v=0uQqMxXoNVs&t=11s)
-
-[ChatGPT](https://openai.com/chatgpt)
-
-### AI companion
-
-YouTube: MegaTech Update<br/>
-[The rise of AI Companion](https://www.youtube.com/watch?v=xw2LVCWG9o0)
-
-
-### Health care
-
-### Transfer training
-
-### VR/AR
-
-  - Environmental accomodations for neurodivergence
-  - Transfer training
-  
-### Innovative Disruption
-
-#### Robots
-
-  - empathetic robots
-  - empathetic AI
-  - hospitality
-    - hotels, airports, etc.
-  - autonomous work displacing human labor
-    
 ### Human Enhancement
 
-  - brain computer interfaces
-  - individually tailored drugs/gene therapy/disease prevention (mRNA)
-    - elimination of certain diseases or impairments (color blindness)
-  - AI personal assistance
-  - designer babies
-  - immortality
-  - human nature and human dignity
-  - transhumanism vs. posthumanism vs. continued humanism?
-  
-### Decentralization
+- Brain computer interfaces (Neuralink, etc.)
+- Gene therapy and personalized medicine (mRNA)
+- AI personal assistance
+- Designer babies and genetic selection
+- Transhumanism vs. posthumanism
+- Human nature, dignity, and immortality
 
-  - distributed networks
-  - energy
-  - information
-  - culminiation of BCI/mobile devices/mesh network protocols
+### Emerging Technologies
+
+- **Nanotechnology and swarms** - medical applications, enhancement
+- **Decentralization** - distributed networks, energy, information
+- **Healthcare technology**
+- **Transfer training and simulation**
 
 
 # Grading
