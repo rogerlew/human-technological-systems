@@ -7,7 +7,7 @@ Spring 2026
 - **CRN:** 42918
 - **Meeting:** Tuesdays & Thursdays, 2:00 - 3:15 PM
 - **Dates:** Jan 15, 2026 - May 7, 2026
-- **Location:** AAN 115 (In-person only)
+- **Location:** AAN Crit Space (In-person only)
 - **Instructor:** Roger Lew
 - **Contact:** rogerlew@uidaho.edu, 208-660-4525 (business hours)
 - **Office Hours:** By appointment
@@ -31,7 +31,7 @@ Topics include introduction to human factors, human technological systems, usabi
 
 **Recommended Preparation:** Graduate student status (5xx) *or* undergraduate who has taken a VTD 300-Level production course and one VTD 400-Level history and theory course, or with instructor approval.
 
-This is a 16-week in-person course to introduce Virtual Technology and Design students to human factors, human computer interaction design and evaluation, emphasizing mixed-initiative systems and virtual reality. The first 8-weeks are to develop the theory and during the last 8-weeks students lead and conduct individual projects related to the course content. 
+This is a 16-week in-person course to introduce Virtual Technology and Design students to human factors, human computer interaction design and evaluation, emphasizing mixed-initiative systems and virtual reality. The first 8-weeks are to develop the theory and during the last 8-weeks students driven topical discussions
 
 
 ## About This Course
@@ -42,7 +42,6 @@ This is a 16-week in-person course to introduce Virtual Technology and Design st
   
 - After that we explore contemporary technology topics that the students find relevant and the instructor deems interesting. This could include: self-driving cars, human enhancement/posthumanism, AI art, etc. The intent is to get to an academic level of discussion supported by papers and other in-depth materials. We generally plan a few weeks ahead and bounce around from topic to topic.
 
-- The last 8 weeks are oriented towards a "Mini-Project" where students develop a human technological system.
 
 ### Assignments/Projects
 
@@ -207,14 +206,11 @@ Bill Gates Episode 6: Sam Altman https://www.youtube.com/watch?v=PkXELH6Y2lM
 
 | Component | Weight |
 |-----------|--------|
-| Participation/Attendance | 30% |
-| 1. Product Evaluation | 10% |
-| 2. Technology Op-Ed Lightning Talk | 10% |
-| 3. AI Assisted Workflow | 10% |
-| 4. Human Technological Systems Artifact | 10% |
-| Mini-Project Status Reports | 10% |
-| Mini-Project Report | 15% |
-| Mini-Project Presentation | 5% |
+| Participation/Attendance | 40% |
+| 1. Product Evaluation | 15% |
+| 2. Technology Op-Ed Lightning Talk | 15% |
+| 3. AI Assisted Workflow | 15% |
+| 4. Human Technological Systems Artifact | 15% |
 | **Total** | **100%** |
 
 **Grading Scale:** A = 90-100%, B = 80-89%, C = 70-79%, D = 60-69%, F = <60%
