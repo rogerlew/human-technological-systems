@@ -64,7 +64,7 @@ Topics could include: AI ethics, social media effects, screen time, autonomous v
 
 Focus on making a clear argument supported by evidence and human factors principles.
 
-Due Thursday, March 5, 2026 (Lightning talk in class)
+Due Tuesday, March 3 & Thursday, March 5, 2026 (Lightning talks in class)
 
 #### 3. AI Assisted Workflow Exploration
 
