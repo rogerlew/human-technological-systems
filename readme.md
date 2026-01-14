@@ -219,27 +219,12 @@ Enhancement
   Tvisha Shah, Heki Dayo October 25, 2022<br/>
   [I Hired a Virtual Assistant and It’s the Best Thing I’ve Done for My ADHD](https://www.additudemag.com/virtual-assistant-adhd-benefits/)
 
-### GAN (General adversiaral networks)
+### Generative AI
 
-Twitter: Eric Wall (shadowbanned)
-[AI Animation](https://twitter.com/ercwl/status/1613601350905888784?s=20&t=iJN6MY1c1IP6bN5TQrUoIQ)
-
-#### Written Text
-  
 YouTube: Cold Fusion<br/>
-[It’s Time to Pay Attention to A.I. (ChatGPT and Beyond)](https://www.youtube.com/watch?v=0uQqMxXoNVs&t=11s)  
+[It's Time to Pay Attention to A.I. (ChatGPT and Beyond)](https://www.youtube.com/watch?v=0uQqMxXoNVs&t=11s)
 
-Application<br/>
-[ChatGPT](https://openai.com/blog/chatgpt/)
-    
-Application<br/>
-[GPT-2 Detector](https://openai-openai-detector.hf.space)
-
-#### image synthesis DALL-E
-
-#### music synthesis
-  
-#### Non-entertainment fields
+[ChatGPT](https://openai.com/chatgpt)
 
 ### AI companion
 
@@ -332,7 +317,7 @@ Please try to be somewhat professional in your coorespondances. You can address 
 
 ### Submitting your assignments
 
-Unless otherwise instructed, please submit your assignments through Canvas. I will post each assignment in Canvas and you can upload your file(s) into the assignment or copy and paste the text into the appropriate box. If you notice that there is no assignment in Canvas that matches what you have to submit, please let me know asap so I can make it visible to the class. This will allow me to track your assignments much better than if you sent them through email, and it also allows me to post comments together with your grade. If you are in doubt whether bblearn has accepted your assignment, you can always email an additional copy.
+Unless otherwise instructed, please submit your assignments through Canvas. I will post each assignment in Canvas and you can upload your file(s) into the assignment or copy and paste the text into the appropriate box. If you notice that there is no assignment in Canvas that matches what you have to submit, please let me know asap so I can make it visible to the class. This will allow me to track your assignments much better than if you sent them through email, and it also allows me to post comments together with your grade. If you are in doubt whether Canvas has accepted your assignment, you can always email an additional copy.
 
 ## Learning Outcomes
 
