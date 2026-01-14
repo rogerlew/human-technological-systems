@@ -2,12 +2,12 @@
 
 University of Idaho<br>
 3 Credits<br>
-Spring 2025<br>
-CRN 77044<br>
-Jan 8, 2025  - May 7, 2025  	02:00 pm - 03:15 pm 	TR<br>
+Spring 2026<br>
+CRN 42918<br>
+Jan 15, 2026 - May 7, 2026 | 2:00 - 3:15 PM | TR<br>
+No class March 17 & 19, 2026 (Spring Recess)<br>
 
-
-Meeting Location AAN 115
+Location: AAN 115 (In-person only)
 
 ## Instructor
 
@@ -32,7 +32,7 @@ Topics include introduction to human factors, human technological systems, usabi
 
 **Recommended Preparation:** Graduate student status (5xx) *or* undergraduate who has taken a VTD 300-Level production course and one VTD 400-Level history and theory course, or with instructor approval.
 
-This is an 16-week onine course to introduce Virtual Technology and Design students to human factors, human computer interaction design and evaluation, emphasizing mixed-initiative systems and virtual reality. The first 8-weeks are to develop the theory and during the last 8-weeks students lead and conduct individual projects related to the course content. 
+This is a 16-week in-person course to introduce Virtual Technology and Design students to human factors, human computer interaction design and evaluation, emphasizing mixed-initiative systems and virtual reality. The first 8-weeks are to develop the theory and during the last 8-weeks students lead and conduct individual projects related to the course content. 
 
 
 ## About This Course
@@ -55,7 +55,7 @@ Ideas to review: Smart Home Devices, Health and Fitness Apps, Mobile Payment App
 
 Document up to 5 page and Powerpoint 4-5 slides and 5 minute presentation.
 
-Due Thursday, March 6, 2025 (Presentation in class, Submit document to canvas)
+Due Thursday, March 5, 2026 (Presentation in class, Submit document to Canvas)
 
 #### 2. AI Assisted Workflow Exploration
 
@@ -65,7 +65,7 @@ Focus on the process not the product.
 
 Powerpoint 4-5 slides with 5-minute presentation.
 
-Due April 17, 2025
+Due Thursday, April 16, 2026
 
 #### 3. Human Technological Systems Artifact
 
@@ -95,7 +95,7 @@ Potential artifacts
 - educate and entertain
 
 
-Due Thursday May 1, 2025 (deadweek) Last day of class. 
+Due Thursday, April 30, 2026 (Dead Week) Last day of class. 
 - [ ] Show and tell in class
 - [ ] canvas upload artifact.
 
@@ -114,7 +114,7 @@ What is Human Factors?
 
 What is Science? (Philosophy of Science)
 
-[Research Design and Methods](https://github.com/rogerlew/human-technological-systems/blob/Spring2025/readings/ResearchDesignandMethods-AProcessApproach-1-1.pdf)
+[Research Design and Methods](https://github.com/rogerlew/human-technological-systems/blob/Spring2026/readings/ResearchDesignandMethods-AProcessApproach-1-1.pdf)
 
 Potential Topic Identification
 
@@ -128,13 +128,13 @@ Principles of human factors
 YouTube: CASABriefing
 [History of human factors](https://www.youtube.com/watch?v=5r1aFRiqLCI)
 
-Donald A. Norman (2013). [The Design of Everyday Things. Basic Books. Chapter 1. The PsychoPathology of Everyday Things.](https://github.com/rogerlew/human-technological-systems/blob/Spring2025/readings/NormanD_DesignOfEverydayThings_Chapter1.pdf)
+Donald A. Norman (2013). [The Design of Everyday Things. Basic Books. Chapter 1. The PsychoPathology of Everyday Things.](https://github.com/rogerlew/human-technological-systems/blob/Spring2026/readings/NormanD_DesignOfEverydayThings_Chapter1.pdf)
 
 
 
-Frank Buschmann (2010). [Learning from Failure, Part 2: Featuritis, Performatis, and Other Diseases](https://github.com/rogerlew/human-technological-systems/blob/Spring2025/readings/buschmann2010_featuritis.pdf) 
+Frank Buschmann (2010). [Learning from Failure, Part 2: Featuritis, Performatis, and Other Diseases](https://github.com/rogerlew/human-technological-systems/blob/Spring2026/readings/buschmann2010_featuritis.pdf) 
 
-Bordens & Abbott. Research Methods. Chapter 1. Explaining Behavior. (2024). [PDF](https://github.com/rogerlew/human-technological-systems/blob/Spring2025/readings/ResearchDesignandMethods-AProcessApproach-1.pdf)
+Bordens & Abbott. Research Methods. Chapter 1. Explaining Behavior. (2024). [PDF](https://github.com/rogerlew/human-technological-systems/blob/Spring2026/readings/ResearchDesignandMethods-AProcessApproach-1.pdf)
 
 Bill Gates Episode 6: Sam Altman https://www.youtube.com/watch?v=PkXELH6Y2lM
 
@@ -151,12 +151,6 @@ Bill Gates Episode 6: Sam Altman https://www.youtube.com/watch?v=PkXELH6Y2lM
 [GoDaddy: Web Accessibility Guidelines in About 7 Minutes](https://www.youtube.com/watch?v=68h6bq1aYZo)
 
 [Universal Design](https://universaldesign.ie/about-universal-design)
-
-
-### Robots
-
-[Robots](robots.md)
-
 
 
 **Materials:** 
@@ -374,9 +368,50 @@ One of the biggest potential problems that you as a student face in your writing
 
 Plagiarism is a serious issue and you cannot claim ignorance of the rules to protect yourself. If we encounter plagiarized work in your assignment (or exams) we are forced to fail you for that particular assignment (or part of the exam), or fail you for the entire course. That is obviously not in anyone’s interest – so please make sure that you fully understand the rules regarding plagiarism and if you have any questions please ask me before you submit your work.
 
-## Administrivia
-    
-(UI 2022 Calendary)[https://www.uidaho.edu/-/media/UIdaho-Responsive/Files/registrar/Registrar/2021-22academiccalendar.pdf?la=en&hash=13733C63006BE4B84584962F414A906680E8649A]
-    
-(UI Finals Schedule)[https://www.uidaho.edu/registrar/classes/finals/spring]
-    
+---
+
+## Nondiscrimination Policy
+
+The University of Idaho prohibits discrimination on the basis of race, color, religion, national origin, sex, age, disability, or veteran status. Complaints about discrimination or harassment should be brought to the attention of the [Office of Civil Rights and Investigations](mailto:ocri@uidaho.edu) (208-885-4285).
+
+---
+
+## UI Moscow Land Acknowledgement
+
+The University of Idaho welcomes and respects all people. UI Moscow is located on the homelands of the Nimiipuu (Nez Perce), Palus (Palouse), and Schitsu'umsh (Coeur d'Alene) tribes. We extend gratitude to the indigenous people that call this place home, since time immemorial.
+
+---
+
+## University of Idaho Supports
+
+### Academic Supports
+
+| Resource | Contact | Location |
+|----------|---------|----------|
+| Academic Coaching | acadcoaching@uidaho.edu | ISUB, 3rd Floor |
+| Career Services | 208-885-6121 | ISUB, 3rd Floor |
+| CDAR | 208-885-6307 | Bruce M. Pitman Center, Suite 127 |
+| Library | 208-885-6534 | 850 S Rayburn Street |
+| Writing Center | 208-885-6644 | Library, 2nd Floor, Room 215 |
+
+### Health and Wellness
+
+| Resource | Contact | Location |
+|----------|---------|----------|
+| Counseling & Mental Health | 208-885-6716 | Mary Forney Hall, Room 306 |
+| VandalCARE | 208-885-6757 | TLC, Room 232 |
+| Vandal Health Clinic | 208-885-6693 | 831 Ash Street |
+
+### Emergency and Safety
+
+| Resource | Contact |
+|----------|---------|
+| Moscow Police Sub-Station | 208-882-2677 |
+| Safe Walk (24/7) | 208-885-SAFE (7233) |
+| Security Services | 208-885-7054 |
+
+**VandalCARE:** If you are concerned about a fellow Vandal, submit a [VandalCARE referral](https://www.uidaho.edu/vandalcare). For emergencies, call 911 immediately.
+
+---
+
+## Everything else: see Canvas
