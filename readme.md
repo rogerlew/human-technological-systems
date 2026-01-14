@@ -99,7 +99,7 @@ Potential artifacts:
 - Build something for your portfolio
 - Have something to discuss in future jobs/interviews
 
-Due Saturday, March 7, 2026 (Submit to Canvas)
+Due Thursday, March 5, 2026 (Submit to Canvas)
 
 ## Tentative Schedule
 
@@ -210,7 +210,7 @@ Bill Gates Episode 6: Sam Altman https://www.youtube.com/watch?v=PkXELH6Y2lM
 | 1. Product Evaluation | 15% | Feb 19 |
 | 2. Technology Op-Ed Lightning Talk | 15% | March 3 & 5 |
 | 3. AI Assisted Workflow | 15% | April 16 |
-| 4. Human Technological Systems Artifact | 15% | March 7 |
+| 4. Human Technological Systems Artifact | 15% | March 5 |
 | **Total** | **100%** | |
 
 **Grading Scale:** A = 90-100%, B = 80-89%, C = 70-79%, D = 60-69%, F = <60%
