@@ -52,11 +52,21 @@ Review a product/application. Describe the good/bad using human factors concepts
 
 Ideas to review: Smart Home Devices, Health and Fitness Apps, Mobile Payment Apps, Productivity Apps, Educational Technology, Augmented Reality Apps, Wearable Technology, Virtual Reality Platforms, Smart Assistants, Mobile Photography and Editing Apps, Environmental and Sustainability Apps, Language Learning Apps, Physical Products like Cars, Radios, Watches, ....
 
-Document up to 5 page and Powerpoint 4-5 slides and 5 minute presentation.
+Document up to 5 pages and PowerPoint 4-5 slides with 5-minute presentation.
 
-Due Thursday, March 5, 2026 (Presentation in class, Submit document to Canvas)
+Due Thursday, February 19, 2026 (Presentation in class, Submit document to Canvas)
 
-#### 2. AI Assisted Workflow Exploration
+#### 2. Technology Op-Ed Lightning Talk
+
+Take a position on a contemporary human-technology issue. Present a short op-ed style argument (5-10 minutes) to the class.
+
+Topics could include: AI ethics, social media effects, screen time, autonomous vehicles, privacy, algorithmic bias, digital accessibility, technology addiction, workplace automation, surveillance, etc.
+
+Focus on making a clear argument supported by evidence and human factors principles.
+
+Due Thursday, March 5, 2026 (Lightning talk in class)
+
+#### 3. AI Assisted Workflow Exploration
 
 Use an AI technology (e.g. ChatGPT, generative AI,) to make something. Present what you made and how you made it. Describe the strengths and weakness of the AI-teaming.
 
@@ -66,7 +76,7 @@ Powerpoint 4-5 slides with 5-minute presentation.
 
 Due Thursday, April 16, 2026
 
-#### 3. Human Technological Systems Artifact
+#### 4. Human Technological Systems Artifact
 
 Reflect on topics and ideas covered throughout the course. Select an idea and create an artifact that illustrates the concept or a point of view regearding the topic.
 
@@ -205,8 +215,9 @@ Bill Gates Episode 6: Sam Altman https://www.youtube.com/watch?v=PkXELH6Y2lM
 | Component | Weight |
 |-----------|--------|
 | Participation/Attendance | 30% |
-| Product Evaluation | 15% |
-| AI Assisted Workflow | 15% |
+| Product Evaluation | 10% |
+| Technology Op-Ed Lightning Talk | 10% |
+| AI Assisted Workflow | 10% |
 | Mini-Project Status Reports | 10% |
 | Mini-Project Report | 20% |
 | Mini-Project Presentation | 10% |
