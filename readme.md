@@ -115,8 +115,7 @@ What is Human Factors?
 
 What is Science? (Philosophy of Science)
 
-[Research Design and Methods](https://github.com/rogerlew/human-technological-systems/blob/Spring2026/readings/ResearchDesignandMethods-AProcessApproach-1-1.pdf)
-
+[Research Design and Methods](https://github.com/rogerlew/human-technological-systems/blob/Spring2026/readings/ResearchDesignandMethods-AProcessApproach-1.pdf)
 Potential Topic Identification
 
 ### Week 1,2 - Introduction to Human Factors
