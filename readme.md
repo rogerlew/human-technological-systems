@@ -148,6 +148,8 @@ Bill Gates Episode 6: Sam Altman https://www.youtube.com/watch?v=PkXELH6Y2lM
 
 [NN/g. 10 UX Research Cheat Sheet](https://www.nngroup.com/articles/ux-research-cheat-sheet/)
 
+[Dark Patterns](https://www.didomi.io/blog/what-are-dark-patterns)
+
 [GoDaddy: Web Accessibility Guidelines in About 7 Minutes](https://www.youtube.com/watch?v=68h6bq1aYZo)
 
 [Universal Design](https://universaldesign.ie/about-universal-design)
