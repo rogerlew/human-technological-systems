@@ -208,7 +208,7 @@ Bill Gates Episode 6: Sam Altman https://www.youtube.com/watch?v=PkXELH6Y2lM
 | Component | Weight | Due Date |
 |-----------|--------|----------|
 | Participation/Attendance | 40% | Ongoing |
-| 1. Product Evaluation | 15% | Feb 19 |
+| 1. Product Evaluation | 15% | Feb 17 & 19 |
 | 2. Technology Op-Ed Lightning Talk | 15% | March 3 & 5 |
 | 3. AI Assisted Workflow | 15% | April 16 |
 | 4. Human Technological Systems Artifact | 15% | March 5 |
