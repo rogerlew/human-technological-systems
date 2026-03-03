@@ -14,6 +14,8 @@ Spring 2026
 
 No class March 17 & 19, 2026 (Spring Recess)
 
+https://uidaho.zoom.us/my/rogerlew
+
 ---
 
 ## Course Description
